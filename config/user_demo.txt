@@ -17,25 +17,25 @@ CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/ind
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV-1 综合教育,
-CETV-2 空中课堂,
-CETV-3 教育服务,
-CETV-4 职业教育,
-CCTV-4K 超高清,
-CCTV-4 欧洲,
-CCTV-4 美洲,
-CCTV-兵器科技,
-CCTV-第一剧场,
-CCTV-风云足球,
-CCTV-世界地理,
-CCTV-央视台球,
-CCTV-央视高网,
-CCTV-风云音乐,
-CCTV-风云剧场,
-CCTV-怀旧剧场,
-CCTV-文化精品,
-CCTV-女性时尚,
-CCTV-电视指南,
+CETV-1 综合教育
+CETV-2 空中课堂
+CETV-3 教育服务
+CETV-4 职业教育
+CCTV-4K 超高清
+CCTV-4 欧洲
+CCTV-4 美洲
+CCTV-兵器科技
+CCTV-第一剧场
+CCTV-风云足球
+CCTV-世界地理
+CCTV-央视台球
+CCTV-央视高网
+CCTV-风云音乐
+CCTV-风云剧场
+CCTV-怀旧剧场
+CCTV-文化精品
+CCTV-女性时尚
+CCTV-电视指南
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 中国天气,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8

@@ -94,7 +94,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CHC影迷电影
 CHC家庭影院
 CHC动作电影
-BRTV纪实科教 8K
 爱上4K
 纯享4K
 求索纪录
@@ -108,7 +107,6 @@ BRTV纪实科教 8K
 纪实科教
 金鹰纪实
 茶友频道
-快乐垂钓
 先锋乒羽
 武术世界
 文物宝库
@@ -134,9 +132,9 @@ BRTV纪实科教 8K
 金色学堂
 足球频道
 南国都市
+中国交通
 中华特产
 书画频道
-四海钓鱼
 财富天下
 环球旅游
 车迷频道
@@ -292,79 +290,26 @@ iHOT爱科学
 iHOT爱动漫
 
 NewTV频道,#genre#
-古装剧场
-动作电影
-农业致富
-超级体育
-超级电影
-超级电视剧
-东北热剧
-海外剧场
-中国功夫
-军旅剧场
-惊悚悬疑
-爱情喜剧
-潮妈辣婆
-精品体育
-精品纪录
-家庭剧场
-精品大剧
-军事评论
-明星大片
-欢乐剧场
-精品萌宠
-超级综艺
-金牌综艺
-炫舞未来
-武搏世界
-怡伴健康
-
-咪咕直播,#genre#
-咪咕直播1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播3,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播4,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播5,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播6,http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播7,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播8,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播9,http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播10,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播11,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播12,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播13,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播14,http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播15,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播16,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播17,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播18,http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播19,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播20,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播21,http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播22,http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播23,http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播24,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播25,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播26,http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播27,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播28,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播29,http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播30,http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播31,http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播32,http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播33,http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播34,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播35,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播36,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播37,http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播38,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播41,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播42,http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播43,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-咪咕直播45,http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+newtv超级体育
+newtv超级电影
+newtv超级电视剧
+newtv东北热剧
+newtv海外剧场
+newtv中国功夫
+newtv军旅剧场
+newtv惊悚悬疑
+newtv潮妈辣婆
+newtv精品体育
+newtv精品纪录
+newtv家庭剧场
+newtv精品大剧
+newtv军事评论
+newtv明星大片
+newtv欢乐剧场
+newtv精品萌宠
+newtv超级综艺
+newtv金牌综艺
+newtv炫舞未来
 
 地方频道,#genre#
 BRTV新闻
@@ -400,6 +345,38 @@ BRTV国际频道
 黑龙江影视
 海南新闻
 海南自贸
+
+咪咕直播,#genre#
+咪咕直播1
+咪咕直播2
+咪咕直播3
+咪咕直播4
+咪咕直播5
+咪咕直播6
+咪咕直播7
+咪咕直播8
+咪咕直播9
+咪咕直播10
+咪咕直播11
+咪咕直播12
+咪咕直播13
+咪咕直播14
+咪咕直播15
+咪咕直播16
+咪咕直播17
+咪咕直播18
+咪咕直播19
+咪咕直播20
+咪咕直播21
+咪咕直播22
+咪咕直播23
+咪咕直播24
+咪咕直播25
+咪咕直播26
+咪咕直播27
+咪咕直播28
+咪咕直播29
+咪咕直播30
 
 春晚频道,#genre#
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
@@ -444,57 +421,56 @@ BRTV国际频道
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 国际频道,#genre#
-BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
-Fox LiveNow,https://jmp2.uk/sam-USBA300024TN.m3u8
-CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-RT News（英语国际）,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT Español（西语）,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-RT Français（法语）,https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-RT Arabic（阿语）,https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-RT DE（德语）,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-RT Documentary,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-RT Doc-Русский,https://hls.rt.com/hls/rtdru360.m3u8
-SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-TBS,http://143.244.60.30/TBS/index.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-&Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Nickelodeon 美国尼克国际儿童频道,http://143.244.60.30/NICKELODEON/index.m3u8
-Nat Geo,国家地理http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-
+BBC
+CNA
+CNN
+Fox LiveNow
+CBC News
+ABC News Live
+WionNews
+NHK World
+NBC News Now
+Sky News
+Al Jazeera
+Arirang
+日本全天新闻
+TRT World
+AXS TV Now
+Bloomberg Asia
+Bloomberg Originals
+Fashion TV
+Trace Sports
+RT News（英语国际）
+RT Español（西语）
+RT Français（法语）
+RT Arabic（阿语）
+RT DE（德语）
+RT Documentary
+RT Doc-Русский
+SKY
+KBS world
+FIFA+
+Newsmax
+Dubai One
+CBN News
+GB News
+TBS
+Taiwan Plus
+ION Plus
+ION
+Love Nature
+Disney International
+Fight Network
+&Flix HD
+Wild Earth
+Wild Planet
+Clarity 4K
+Stadium
+Pop
+Tastemade
+MovieSphere
+The Lego Channel
+NextUp Live Comedy
+Love Nrture 4K「自然」
+Nickelodeon 美国尼克国际儿童频道
+Nat Geo 国家地理

@@ -170,25 +170,28 @@ def get_total_urls(info_list: list[ChannelData], ipv_type_prefer, origin_type_pr
             info["resolution"],
             info["ipv_type"]
         )
-        if not origin or (rtmp_type and origin in ["live", "hls"] and origin not in rtmp_type):
+        if not origin:
             continue
+
+        if origin in ["live", "hls"]:
+            if not rtmp_type or (rtmp_type and origin in rtmp_type):
+                total_urls.append(info)
+                continue
+            else:
+                continue
 
         if origin == "whitelist":
             w_url, _, w_info = url.partition("$")
             if open_url_info:
                 w_info_value = w_info.partition("!")[2] or "白名单"
                 w_url = add_url_info(w_url, w_info_value)
-            info.url = w_url
-            total_urls.append(info)
-            continue
-
-        if not rtmp_type or (origin in rtmp_type):
+            info["url"] = w_url
             total_urls.append(info)
             continue
 
         if origin == "subscribe" and "/rtp/" in url:
             origin = "multicast"
-            info.origin = origin
+            info["origin"] = origin
 
         if origin_prefer_bool and (origin not in origin_type_prefer):
             continue
@@ -206,7 +209,7 @@ def get_total_urls(info_list: list[ChannelData], ipv_type_prefer, origin_type_pr
             if resolution:
                 url = add_url_info(url, resolution)
 
-            info.url = url
+            info["url"] = url
 
         if not origin_prefer_bool:
             origin = "all"
@@ -349,7 +352,7 @@ def get_ip_address():
     Get the IP address
     """
     host = os.getenv("APP_HOST", config.app_host)
-    port = os.getenv("SERVER_PORT", config.app_port)
+    port = os.getenv("APP_PORT", config.app_port)
     return f"{host}:{port}"
 
 

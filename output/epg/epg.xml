@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250515053737 +0800">
+<tv date="20250515061132 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5522,6 +5522,12 @@
 	</programme>
 	<programme channel="动作电影" start="20250515085900 +0800" stop="20250515105300 +0800">
 		<title lang="zh">火线追凶2之致命线人</title>
+	</programme>
+	<programme channel="动作电影" start="20250515105300 +0800" stop="20250515113000 +0800">
+		<title lang="zh">侧柏叶墨旱莲何首乌精油皂-渠道（右）</title>
+	</programme>
+	<programme channel="动作电影" start="20250515113000 +0800" stop="20250515131100 +0800">
+		<title lang="zh">狙击者</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -11244,6 +11250,9 @@
 	<programme channel="惊悚悬疑" start="20250515101500 +0800" stop="20250515113700 +0800">
 		<title lang="zh">藏海花之暗巢汹涌</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250515113700 +0800" stop="20250515121400 +0800">
+		<title lang="zh">侧柏叶墨旱莲何首乌精油皂-渠道（右）</title>
+	</programme>
 	<channel id="文物宝库">
 		<display-name lang="zh">文物宝库</display-name>
 	</channel>
@@ -11501,6 +11510,12 @@
 	</programme>
 	<programme channel="明星大片" start="20250515093800 +0800" stop="20250515103600 +0800">
 		<title lang="zh">35_御赐小仵作</title>
+	</programme>
+	<programme channel="明星大片" start="20250515103600 +0800" stop="20250515111600 +0800">
+		<title lang="zh">36_御赐小仵作</title>
+	</programme>
+	<programme channel="明星大片" start="20250515111600 +0800" stop="20250515123600 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -17988,6 +18003,9 @@
 	<programme channel="爱情喜剧" start="20250515100900 +0800" stop="20250515111200 +0800">
 		<title lang="zh">13_公诉</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250515111200 +0800" stop="20250515131700 +0800">
+		<title lang="zh">14_公诉</title>
+	</programme>
 	<channel id="环球旅游">
 		<display-name lang="zh">环球旅游</display-name>
 	</channel>
@@ -19461,6 +19479,15 @@
 	<programme channel="纯享4K" start="20250515095800 +0800" stop="20250515102800 +0800">
 		<title lang="zh">寻古中国4K 稻谷记b7稻香九州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250515102800 +0800" stop="20250515105700 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7云梦迷踪</title>
+	</programme>
+	<programme channel="纯享4K" start="20250515105700 +0800" stop="20250515113700 +0800">
+		<title lang="zh">探索b7发现4K 一代大师李叔同（1）朱门公子</title>
+	</programme>
+	<programme channel="纯享4K" start="20250515113700 +0800" stop="20250515121900 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 古都开封展新颜</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -19994,6 +20021,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250515091800 +0800" stop="20250515110700 +0800">
 		<title lang="zh">虎头要塞 细菌</title>
+	</programme>
+	<programme channel="超级电影" start="20250515110700 +0800" stop="20250515125600 +0800">
+		<title lang="zh">虎头要塞-假如明天来临</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -22605,6 +22635,9 @@
 	<programme channel="黑莓动画" start="20250515100300 +0800" stop="20250515112900 +0800">
 		<title lang="zh">葫芦兄弟电影版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250515112900 +0800" stop="20250515122900 +0800">
+		<title lang="zh">哪吒闹海</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -22625,6 +22658,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250515094600 +0800" stop="20250515114400 +0800">
 		<title lang="zh">非常电竞队</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250515114400 +0800" stop="20250515130800 +0800">
+		<title lang="zh">重案行动之捣毒任务</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>

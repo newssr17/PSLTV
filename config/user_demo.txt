@@ -174,33 +174,6 @@ TVBS欢乐台
 AMC电影台
 CAT电影
 八大戏剧台
-港澳台AKTV,#genre#
-凤凰卫视中文台，https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰卫视资讯台，https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-中天新闻台，https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-PopC，https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
-ROCK Action，https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-TVB Plus，https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-TVBS新闻，https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-TVB 星河，https://s1.m16tv.cfd/astro/tvb/AKTV.m3u8
-tvN，https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
-明珠剧集台(北美)，https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠台，https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-无线新闻台，https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-美亞電影台(HK)，https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
-翡翠剧集台(北美)，https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
-翡翠台，https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠综合台(北美)，https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-東森電影，https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-東森新聞，https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-緯來體育台，https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-天映电影，https://s1.m16tv.cfd/astro/celestialmovies/AKTV.m3u8
-民視第一台，https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-AXN，https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-Channel 5 HD，https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD，https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD，https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台，https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
 动画频道,#genre#
 卡酷少儿
 金鹰卡通

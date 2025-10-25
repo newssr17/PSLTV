@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-25 07:25:05,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-10-26 07:26:45,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -421,6 +421,7 @@ TVBJ1,https://hls-gateway.vpstv.net/streams/709490.m3u8
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 中视,https://stream1.freetv.fun/zhong-shi-6.m3u8
 中视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
+中视,https://live.catvod.com/live.php?id=zhongshihd_twn&token=c98b6549f30b48e826f3788c5601fe7bab43cedc789680bbeaea21d760a24b7e%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 中视,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 中视,https://hls-gateway.vpstv.net/streams/476983.m3u8
 台视新闻,https://hls-gateway.vpstv.net/streams/476268.m3u8
@@ -447,12 +448,12 @@ TVBJ1,https://hls-gateway.vpstv.net/streams/709490.m3u8
 民视第一台,https://hls-gateway.vpstv.net/streams/476243.m3u8
 中视菁采,https://hls-gateway.vpstv.net/streams/476260.m3u8
 MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
+纬来日本,https://live.catvod.com/live.php?id=videolandjapan&token=07dac57ad4e6f70f7dd46cca38e9d6b065fdf4ce142ccfb33faf3ca560864749%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 纬来日本,https://hls-gateway.vpstv.net/streams/477039.m3u8
 纬来日本,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=29d66f02bb445a2069a8f31cbb216cf3f2cbf9de61528e66d4c52126be7431e7%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
@@ -487,6 +488,7 @@ MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 黑龙江少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
@@ -556,9 +558,9 @@ NewTV频道,#genre#
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,https://live.catvod.com/live.php?id=zhujiang&token=72bb6439bad0455ef3cf29960540c0914864123f834ceb87ee1e6c72f4ec1738%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-26.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
@@ -588,6 +590,7 @@ NewTV频道,#genre#
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江新闻,https://stream1.freetv.fun/7fa07158e038a9bae3747a0cb9f8e8ff1aaba32669d28d99a498716f16569c1d.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 江苏体育,https://migu.188766.xyz/?migutoken=a429fbdc2007f1c37ab5a58f02f96d7c&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
@@ -656,7 +659,7 @@ NewTV频道,#genre#
 安徽影视,https://stream1.freetv.fun/an-hui-ying-shi-14.m3u8
 安徽经济生活,https://stream1.freetv.fun/an-hui-jing-ji-sheng-huo-4.ctv
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
-安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
+安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
 黑龙江新闻法治,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
 黑龙江新闻法治,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8

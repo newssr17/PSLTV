@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-28 04:22:11,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-10-29 04:28:10,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -96,10 +96,12 @@ CCTV-4欧洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/
 CCTV-4欧洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=20251027080058760d61544aee453e807ffe1812443084&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20251027080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.13.250.83&SecurityKey=20251027080058&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c898b9c5ddab709988c9c0057b998f64&ddCalcu=4c68ef928889b099bc755d0d0acb97c08989
 CCTV-4欧洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=202510271000482c8c72a82b3c4d648cd352f66224964f&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20251027100048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.13.250.88&SecurityKey=20251027100048&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=10d3c834777db3a25817b965b4edef5c&ddCalcu=c150efd2e38dc0e843b4576797bd7b138a52
 CCTV-4欧洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=20251028040028f1f95c8ecd944d689d0d5abbef0717c9&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20251028040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.13.250.89&SecurityKey=20251028040028&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=acda6b2c04022a6d6de59390e6bd06ef&ddCalcu=faece6d20a8d60bb62ec0094309252ead66d
+CCTV-4欧洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?msisdn=202510280800559ec8e0c64c124dcb8aed335598bb0775&mdspid=&spid=699004&netType=0&sid=2200179315&pid=2028597139&timestamp=20251028080055&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807419&ParentNodeID=-99&assertID=2200179315&client_ip=106.13.250.89&SecurityKey=20251028080055&promotionId=&mvid=2200179315&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=29f8a3e25b0f0860a1f97aa6116740e0&ddCalcu=02e9e0f24887a0631e1265aba07f90f816a0
 CCTV-4美洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=20251015060034f419783771424bae96c3c1ef9f568f4f&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251015060034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.83&SecurityKey=20251015060034&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=30d05f738b5d83f10fd50b7a9e5b159e&ddCalcu=e390e5d1108b505fe793a87bb50d58d3ff01
 CCTV-4美洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=20251027080058ad6c8b020eec4c28a3a716d6a0c1c860&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251027080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.83&SecurityKey=20251027080058&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=00c1ce23cab480ddbb927949a789e748&ddCalcu=8040e7c2e189c08e72a39c4a9b742890bdbd
 CCTV-4美洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=20251027100048ae800e93a594462a9be96f92f05ebf2f&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251027100048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.88&SecurityKey=20251027100048&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=32753bee3cd038144b76209bf02ee454&ddCalcu=4352e472e58e302b0efeb39c0d206378b144
 CCTV-4美洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=2025102804002806c2f38c4be64ca6b8b477ce1b30d783&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251028040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.89&SecurityKey=20251028040028&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b54610a69724d574a85a037bd13e4a94&ddCalcu=4b95ea42468e10301ad6b9773204ad5587a4
+CCTV-4美洲,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?msisdn=20251028080056340c0f85673046529b8f14e1a1dc5de9&mdspid=&spid=699004&netType=0&sid=2200179344&pid=2028597139&timestamp=20251028080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807416&ParentNodeID=-99&assertID=2200179344&client_ip=106.13.250.89&SecurityKey=20251028080056&promotionId=&mvid=2200179344&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41b68421d148b9e9b02491e4526bca34&ddCalcu=4431eab2c68b806422514de114984b290eb9
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -350,6 +352,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 文物宝库,https://hls-gateway.vpstv.net/streams/708841.m3u8
 文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=6ea6b81d84235f987716356e4e0dd2b5&wsTime=1760500809
 文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=ffcfebfd704ee8b479f079d246f75583&wsTime=1761537608
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=047f1df9b2ea424f5597c7cc2d81627e&wsTime=1761624011
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 劲爆体育,http://3501776.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
@@ -391,6 +394,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2025102708010908e12b02a08e4af291a7c2eb3a7ad711&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251027080109&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.83&SecurityKey=20251027080109&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a8fe478c3e89bb3663df3da4e0a8ae39&ddCalcu=9a38eef2ae8840a708ec43aed839fbdb3366
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=202510271000572c9f277383da4bafb0f2da39d8c4cede&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251027100057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.88&SecurityKey=20251027100057&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f3fc2fe58c286710e8fd7e63c57c76ec&ddCalcu=cfe3e6f27c8c207f5ec5386ce278d6f781e0
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=20251028040038d0367f65b9274ceb913cb565abf68b07&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251028040038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.89&SecurityKey=20251028040038&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=21b28794350eb4c35f757299846254f5&ddCalcu=52f1e4b25282806749849395207e5b74fc53
+环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=20251028080106cf977a7715d44e1dac11c2bd032b33f1&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251028080106&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.89&SecurityKey=20251028080106&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=77e3b1e466395b3cf53c4209ed8da33d&ddCalcu=d737e3e2a38db081dee496062349c53b53fc
 
 港澳台频道,#genre#
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -463,6 +467,7 @@ TVBJ1,https://hls-gateway.vpstv.net/streams/476199.m3u8
 华视新闻,https://hls-gateway.vpstv.net/streams/476266.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
 中视新闻,https://hls-gateway.vpstv.net/streams/476269.m3u8
+中视新闻,https://stream1.freetv.fun/zhong-shi-xin-wen-9.ctv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -484,11 +489,14 @@ TVBJ1,https://hls-gateway.vpstv.net/streams/476199.m3u8
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一台,https://hls-gateway.vpstv.net/streams/476243.m3u8
 中视菁采,https://hls-gateway.vpstv.net/streams/476260.m3u8
+中视菁采,https://stream1.freetv.fun/zhong-shi-jing-cai-3.ctv
+中视菁采,https://stream1.freetv.fun/zhong-shi-jing-cai-5.ctv
 MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
 纬来日本,https://live.catvod.com/live.php?id=videolandjapan&token=8bd9bac7618fe824f3f4f960e215f9f2782b5750ec9b22fcd7728f9849661ff4%3A1760491003%3ANTIuMTUwLjI5Ljk4
 纬来日本,https://hls-gateway.vpstv.net/streams/477039.m3u8
 纬来日本,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 纬来日本,https://live.catvod.com/live.php?id=videolandjapan&token=fe3da249df56d0229496024dc54318f0d4a49eb2c1a1b6261fdd1aca95e191f9%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
+纬来日本,https://live.catvod.com/live.php?id=videolandjapan&token=9fb0049eb0695c2c95aba991e8ddd262e764cc0d94eb74bc33d26a11a1bcd684%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
@@ -568,10 +576,13 @@ NewTV频道,#genre#
 北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京新闻,https://migu.188766.xyz/?migutoken=ed1b3d7eaeffe8f5096b9123d94539ff&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
 北京新闻,https://migu.188766.xyz/?migutoken=b7171b6cb690352dc2048d71bd107deb&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+北京新闻,https://migu.188766.xyz/?migutoken=fc448bc6dc675adf732447b2ca8bf30a&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=bf322c751165e8afaa0a90ffec16b169&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=bec2c0ad1527efd505f338129ce18262&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+北京生活,https://migu.188766.xyz/?migutoken=309d5eaa9f007db445fb754e28f85050&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=3aa460e1d0b9c051375e939ab4a50777&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=af052d72e9649d06fa317f323747afe8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+北京财经,https://migu.188766.xyz/?migutoken=9a912c56f4e7584752a9642be68dc2db&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 上海外语,http://z.b.bkpcp.top/m.php?id=shics
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxwzh
 上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
@@ -582,6 +593,7 @@ NewTV频道,#genre#
 上海第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
 上海第一财经,https://migu.188766.xyz/?migutoken=513bfd7c3b6828175af7ab5ef02a90dc&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
+上海第一财经,https://migu.188766.xyz/?migutoken=2dc5ff94a7e83d97d44daa632ab9ab78&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8

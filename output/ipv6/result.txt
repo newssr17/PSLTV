@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 04:25:35,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-12-10 04:20:33,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -463,6 +463,7 @@ TVB明珠台,https://migu.188766.xyz/?migutoken=9e37fc0c1b7b806ba45854b6540f85b8
 TVB明珠台,https://stream1.freetv.fun/ming-zhu-12.ctv
 TVBJ1,https://hls-gateway.vpstv.net/streams/709490.m3u8
 TVBJ1,https://hls-gateway.vpstv.net/streams/476199.m3u8
+TVBJ2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8

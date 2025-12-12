@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-12 04:23:58,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-12-13 04:22:04,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -404,6 +404,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 都市剧场,https://hls-gateway.vpstv.net/streams/708845.m3u8
 都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 都市剧场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&Ace
+南国都市,http://r.jdshipin.com/nWaZO
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=202510150801586ab247aa944549b494d14c05500626ec&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251015080158&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.83&SecurityKey=20251015080158&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebc31e8e888a0e27adbcfb815df1b461&ddCalcu=1e6be4c1b38110fed85e1888b8fac0bed2a7
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2025102708010908e12b02a08e4af291a7c2eb3a7ad711&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251027080109&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.83&SecurityKey=20251027080109&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a8fe478c3e89bb3663df3da4e0a8ae39&ddCalcu=9a38eef2ae8840a708ec43aed839fbdb3366
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=202510271000572c9f277383da4bafb0f2da39d8c4cede&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20251027100057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=106.13.250.88&SecurityKey=20251027100057&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f3fc2fe58c286710e8fd7e63c57c76ec&ddCalcu=cfe3e6f27c8c207f5ec5386ce278d6f781e0

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251219055752 +0800">
+<tv date="20251219063601 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -13499,6 +13499,15 @@
 	</programme>
 	<programme channel="纯享4K" start="20251219100300 +0800" stop="20251219104300 +0800">
 		<title lang="zh">探索b7发现4K 泗洪顺山集遗址（上）</title>
+	</programme>
+	<programme channel="纯享4K" start="20251219104300 +0800" stop="20251219112300 +0800">
+		<title lang="zh">探索b7发现4K 泗洪顺山集遗址（下）</title>
+	</programme>
+	<programme channel="纯享4K" start="20251219112300 +0800" stop="20251219113300 +0800">
+		<title lang="zh">秘境之眼4K 夏日泰加林</title>
+	</programme>
+	<programme channel="纯享4K" start="20251219113800 +0800" stop="20251219121900 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（71） 百年港城秦皇岛</title>
 	</programme>
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>

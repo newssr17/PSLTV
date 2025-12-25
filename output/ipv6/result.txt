@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-24 14:38:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-25 14:35:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -554,6 +554,7 @@ iHOT爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/20000000040000000
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
 
 NewTV频道,#genre#
+超级电影,https://iptv.catvod.com/live.php?id=NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8

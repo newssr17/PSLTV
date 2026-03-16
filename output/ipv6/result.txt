@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-16 00:46:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-17 01:24:12,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -215,6 +215,7 @@ CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-1.php
 内蒙古卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
 
 数字频道,#genre#
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.php
@@ -306,6 +307,7 @@ TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVBJ1,https://hls-gateway.vpstv.net/streams/709490.m3u8
 TVBJ1,https://hls-gateway.vpstv.net/streams/476199.m3u8
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8

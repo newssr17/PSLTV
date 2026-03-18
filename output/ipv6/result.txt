@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-18 01:24:19,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-19 01:09:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -86,6 +86,7 @@ CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=050ed8f88
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407259705406653100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774310808&major_anchor_level=common&sign=2e25bcc1aff95c44dcf024044915ff65&t_id=037-202603170806476F1741BC4FA44F4F830F-Ry5z4p
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-695498302537597612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774409094&major_anchor_level=common&sign=1089c8ab52b6b7380b53779556b1a3b9&t_id=037-20260318112454B115DBF2A20EDCFBB79B-nqZqTo
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8

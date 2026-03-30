@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-30 00:22:18,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-31 00:51:40,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -534,6 +534,7 @@ MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-25.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
+浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-11.m3u8

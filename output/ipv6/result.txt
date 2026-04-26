@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-26 00:18:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-27 00:18:21,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -145,10 +145,12 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
 CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr
 CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf
 CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf
@@ -161,6 +163,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN阿语,http://goo.bkpcp.top/mg/cgtna
 CGTN阿语,http://z.b.bkpcp.top/m.php?id=cgtna
 CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8?3.24.160:5140
 
 卫视频道,#genre#
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8

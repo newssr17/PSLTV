@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-04 00:24:16,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-05 01:17:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -139,6 +139,7 @@ CCTV-风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 CCTV-怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 CCTV-怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
 CCTV-怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
+CCTV-怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 CCTV-文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
 CCTV-文化精品,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-WENHUA-CQ
 CCTV-文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104

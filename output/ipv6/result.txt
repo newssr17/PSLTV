@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-06 01:00:31,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-07 01:14:41,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -370,6 +370,7 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
 纪实人文,https://stream1.freetv.fun/ipv6-ji-shi-ren-wen-12.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 魅力足球,https://hls-gateway.vpstv.net/streams/708839.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
@@ -463,6 +464,7 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-5.php
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
+中天新闻,https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8
 华视新闻,https://hls-gateway.vpstv.net/streams/476266.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php

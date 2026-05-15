@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-15 01:32:33,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-16 01:21:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -397,6 +397,7 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 南国都市,http://r.jdshipin.com/nWaZO
+环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=03c0530f433142b3c9726a5e76ad9160&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260515054849&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=39.98.181.246&SecurityKey=20260515054849&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=38a97f19ac64f439afa76caa61cd7a6f&ddCalcu=f368vaaa79bd7acf1169aaacc6647fa4f3a9&sv=10004&ct=android
 
 港澳台频道,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
@@ -671,6 +672,7 @@ MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=2025102308014130dd0a5e627f42499c11a2ab2361d34e&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5d7ae839a5e5f0b92b0a6b3471204437&ddCalcu=753de4724a60e02813794a35be65af00bb29
 江苏影视,https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys
+江苏影视,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=76ed1ffc9f3882f184172bfda9cfe5ff&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20260515054815&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=39.98.171.111&SecurityKey=20260515054815&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8b94277242e414879532d3892da4acc5&ddCalcu=58cbvc9aa4w42aa7d72294823ed421345897&sv=10004&ct=android
 江苏教育,https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
 江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy
 江苏教育,http://goo.bkpcp.top/mg/jsjy

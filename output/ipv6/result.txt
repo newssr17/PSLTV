@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 01:52:21,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-20 02:06:17,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -401,6 +401,7 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-4.m3u8
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=1ee5e0252deff5745475de694df000be&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260516054008&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=39.98.171.74&SecurityKey=20260516054008&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=923f8ca0604b8509f1994ad36d86fe22&ddCalcu=2922ve3affb68a8cda6036d0a44b989510f9&sv=10004&ct=android
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=608383c4aec26f5447cf81a84925d95b&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260517053224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=39.98.171.74&SecurityKey=20260517053224&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6198a1a2a4013889c3fea58b753a5b6a&ddCalcu=a661vb9a58baaa315a72ba8450a1e3f838c9&sv=10004&ct=android
 环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=e54a0363d678fcfa35dc23731bf80d81&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260518053422&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=39.98.171.74&SecurityKey=20260518053422&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6d536daad28e309381958a77848c4bf4&ddCalcu=46fdvb5a43bc6a8d4a8a7d72a88e53901983&sv=10004&ct=android
+环球旅游,http://gslbmgsplive.miguvideo.com/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=68a66ff76df184911646a0eab44b62ae&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260519055038&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=39.98.171.74&SecurityKey=20260519055038&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=56554bbe6e825d81d1742bbbad87333d&ddCalcu=d536v35a35b74a8bdbaeb6beb822457d18d1&sv=10004&ct=android
 
 港澳台频道,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW

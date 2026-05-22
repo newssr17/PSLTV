@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-22 01:51:44,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-23 01:26:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -479,9 +479,11 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 华视新闻,https://hls-gateway.vpstv.net/streams/476266.m3u8
 华视新闻,https://stream1.freetv.fun/hua-shi-2.m3u8
 华视新闻,https://t.freetv.fun/live/hua-shi-xin-wen.php
+华视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv052&token=https://t.me/GPT_858
 中视新闻,https://hls-gateway.vpstv.net/streams/476269.m3u8
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-3.php
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.php
+中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8

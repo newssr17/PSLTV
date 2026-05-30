@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-30 02:27:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-31 00:24:25,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -455,6 +455,7 @@ TVB明珠台,https://t.freetv.fun/live/ming-zhu-6.m3u8
 TVBJ1,https://hls-gateway.vpstv.net/streams/709490.m3u8
 TVBJ1,https://hls-gateway.vpstv.net/streams/476199.m3u8
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVBJ1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8

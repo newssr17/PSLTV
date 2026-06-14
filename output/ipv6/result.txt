@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-14 00:33:53,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-15 00:42:46,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -162,6 +162,7 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf
 CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf
 CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
+CGTN法语,http://mgsp-hs2.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20260614080213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=171.8.79.254&SecurityKey=20260614080213&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dd2ec039f3e3a40c1fe99558f7862220&sv=10004&ct=android
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN西语,http://goo.bkpcp.top/mg/cgtne
 CGTN西语,http://z.b.bkpcp.top/m.php?id=cgtne

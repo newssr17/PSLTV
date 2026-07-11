@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-11 01:18:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-12 00:16:13,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -806,6 +806,7 @@ MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-2.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-6.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-3.m3u8
+福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-4.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-1.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-5.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-2.m3u8

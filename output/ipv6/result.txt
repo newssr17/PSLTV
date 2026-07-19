@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-19 00:26:07,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-20 00:33:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -133,6 +133,7 @@ CCTV-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4
 CCTV-风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 CCTV-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 CCTV-风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
+CCTV-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV-央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
 CCTV-央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-23 00:51:55,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-24 01:08:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -350,6 +350,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8?3.24.160:5140
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 安多卫视,https://stream1.freetv.fun/52d0df257c5c3cec42f2ae19268dbbc261256ff391b27bd83553bea941d0c186.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8
@@ -367,6 +368,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8?3.24.160:5140
 内蒙古卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi.php
+山东教育卫视,https://live.chinacert.cftest5.cn/cnmg/live/609154353
 
 数字频道,#genre#
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.php
@@ -498,6 +500,7 @@ TVBJ1,https://hls-gateway.vpstv.net/streams/709490.m3u8
 TVBJ1,https://hls-gateway.vpstv.net/streams/476199.m3u8
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVBJ1,http://cdn3.163189.xyz/live/j1/stream.m3u8
+TVBJ1,https://cdn.qd.je/163189/j1
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
@@ -621,6 +624,7 @@ MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
 上海第一财经,https://iptv.catvod.com/migu?id=608780988&token=c9421e5e2fa5c44d5ef2139cb67d5381
 上海第一财经,https://iptv.catvod.com/migu?id=608780988&token=96a8eeaa72652f08951b42ae75dca63c
+上海第一财经,https://iptv.catvod.com/migu?id=608780988&token=16beb036810391f4e2e0efa4698565bf
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-2.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-3.m3u8
@@ -757,6 +761,7 @@ MOMOTV,https://hls-gateway.vpstv.net/streams/476239.m3u8
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=c45add0b117410a212401ecea0b71df6
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=cb79b390056a6bbef5521541d10629eb
+山东教育,https://iptv.catvod.com/migu?id=609154353&token=8e5b0ba52239ae45e2eee0436fe0f267
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 辽宁北方,https://stream1.freetv.fun/liao-zhu-bei-fang-3.m3u8
 辽宁影视剧,https://stream1.freetv.fun/liao-zhu-ying-shi-ju-1.m3u8

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-03 00:30:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-04 01:38:11,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -160,6 +160,7 @@ CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
+CGTN记录,https://vip.taoiptv.cn/source/itv.php?id=CGTN记录.m3u8&sign=mzxn4l
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
 CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260904152111 +0800">
+<tv date="20260904155524 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -20754,9 +20754,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260903151600 +0800" stop="20260903154500 +0800">
-		<title lang="zh">专题</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260903154500 +0800" stop="20260903161500 +0800">
 		<title lang="zh">向着炮火前进（43集）</title>
 	</programme>
@@ -20943,9 +20940,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260903145200 +0800" stop="20260903153200 +0800">
-		<title lang="zh">刑警队长(22)</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260903153200 +0800" stop="20260903160000 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
@@ -21123,9 +21117,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260903144100 +0800" stop="20260903154000 +0800">
-		<title lang="zh">虎刺红（09）</title>
-	</programme>
 	<programme channel="山西影视" start="20260903154000 +0800" stop="20260903164000 +0800">
 		<title lang="zh">虎刺红（10）</title>
 	</programme>

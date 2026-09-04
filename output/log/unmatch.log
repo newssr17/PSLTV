@@ -1,407 +1,4 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-0X0Ael2q2t7GJYhghg5lqb&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce="0X0Ael2q2t7GJYhghg5lqb">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'ud.pkwhmpcJEKUullWuaGIaFViG6CL8UZjZ1oyAdxKI-1788508512-1.2.1.1-EmjMWl1MdcPwS_xW_HE9hb0S2gcZKnZCavMOimqyEC8ECEhIWVDGiErb7cAZ4Une',cITimeS: '1788508512',cN: '0X0Ael2q2t7GJYhghg5lqb',cRay: 'a35b6e3ccc5f8b33',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/live.m3u?__cf_chl_tk=NltKYcbOsNbEs6Qc3zH71NrVpeBtrZLgWc57Cfx_KUY-1788508512-1.0.1.1-0ZRStwhBNBYY6qqJM6q23etDcMg5FCxSbw3BtzpO1uo",cvId: '3',cZone: 'live.iptv365.org',fa:"/live.m3u?__cf_chl_f_tk=NltKYcbOsNbEs6Qc3zH71NrVpeBtrZLgWc57Cfx_KUY-1788508512-1.0.1.1-0ZRStwhBNBYY6qqJM6q23etDcMg5FCxSbw3BtzpO1uo",md: 'EhKGZCBFncLw1FEf6LRJRs1PCiZmMRBvyvFcR7Hgx9g-1788508512-1.2.1.1-.4l_d3pfnpFRs74FMzAAZb1DdLjkMhgqMJeVV8q.ucn8Kra6PSqHiRb1Ai_5Sj_yFDgKXjCyOv6oxleizvd6ZOLgLTa.zdZEwQyFRsfV4Vz1nQX.rACxAB3eulwJmHngAz0ZTESY4vbbALwERFkxo3IXmbwlj2o.NzYqzldoqAGp8dOTqmTxBRAEEtWGN.EoysoS.UUkPK6kO6o4dJj0TiIRJIpFSMXkQFuu4_VJGhVvjGSzheCw2jsj7FTZQjS.CGyC3.tc2PcVZcZTs2hIUivzSHbUwuZ5WHFF44nYusLRzS0V3s.2hDYXEFzQufwZN70p.hj9VNvMAn_6fQVaxNdNr5HTOo52eRwC..G0i5OOYi_RMgPaduGjz3Noq__3mrVCXFE5O6aS6qGiYPsKcamOaJoGEbdiWG1hn4i9AAwLZrKwaUk7.BZkbvRqZJ2uEq3fWE5JJK59TJSTbP0ligR00bN64BD9mnaQN4_AHZ36riZcP76IDhZIa3zDVosifC_yF6lv9WrA.oxrHqZ015EhQUA1SGtV9EZg8FHBs8.SwXAVeNFnPnZswE2pWcCWcwErZjrpkTh5YiYmTY3pqYhVq3Lv8tfhtVK1iOgFOdzvSQzYWEISsabKgmNxRV4hEhPKgu0itZ__QQ1UwFYcN5iBIdelGPy.O.IxNtSIBYnhr68t_FkvQnICN6XmV.uyvQfp1h5avhgB7oBpSBrF1ET0axmk54NVKnGBY1YxF9yTZ2krfdT9Kk7hJP_cZSIQnuorGyER.MachCh_YWw_c9ZXqfFPiZ6EpjbqbXm.evJDFPgiNeM_erJl2riwYkaY8A2MkejXCQuMyvwW.iXDkt8HBJGG.VIcvZIa1V0D..VnilOllHmnQp40bLbePjP_xwlMyIKCsB6p72OqGOp5sLnt2meHUrIc4IVRct8TDDfq2xBKrnKPAj_U.pgKpiqaKxzezOUhMci9SRdU5cxc37N5.iZC2ojm7luBxA8Jivwjmb38xGV_BwFNE2HDPRpBJtkBNkvI._qmZ9vdfdv0d5pr8sJ21OD7d_IOgxom3_VRNb62v.ESO4FzrHfDfbLOeWfXAgL1hyf_LZfhNNKn4A',mdrd: 'kIQq0uQh5xjTwXHRRJxYNdqDx1eTOQasQwvc9tS8jtI-1788508512-1.2.1.1-pZrpgS_Hs0GS1j4eMsRJuqRCLfHl0ylv5pmIHFB2sJ8dAtqvADSBzIDeX0W8hM7nefHqUHTwrIt3x4dEyO0zhyeJ8EPehzgTK2oqFQSjn3kigN0kXu..cnzfCQQgllCe7lLf8ElRuyFp5EFAkArIEnN02lKum0K0DVelVzpBNolrsZxBoCTajzb5ZLClinly.76cHQET1dnPm_lwoQIhDuhnjvCeFJiRCSAKKghpGCtFa6AA7QW90jyyCqOVCZMbbNlKG2wObaHtO.OGNyCfxhvZQk7sGPX9rJaMOuJivX.KMsHvrKd7o2uOSZ2DnSQYDpLXUMRH6KJsgk5hw.kuMVmUu6b2SO8ZSYQmPFs_lvInW24O8AVvmseSSgm2OfMZpKFw7D0XKIW_cf7m00OSCg',};var a = document.createElement('script');a.nonce = '0X0Ael2q2t7GJYhghg5lqb';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a35b6e3ccc5f8b33';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/live.m3u?__cf_chl_rt_tk=NltKYcbOsNbEs6Qc3zH71NrVpeBtrZLgWc57Cfx_KUY-1788508512-1.0.1.1-0ZRStwhBNBYY6qqJM6q23etDcMg5FCxSbw3BtzpO1uo"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
-<html>
-<head ><style>*{margin: 0; padding: 0;}</style><meta  name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" content=""><script>
-if (!"gdprAppliesGlobally" in window) {
-    window.gdprAppliesGlobally = true
-  }
-  if (!("cmp_id" in window) || window.cmp_id < 1) {
-    window.cmp_id = 0
-  }
-  if (!("cmp_cdid" in window)) {
-    window.cmp_cdid = "40679ccc92462"
-  }
-  if (!("cmp_params" in window)) {
-    window.cmp_params = ""
-  }
-  if (!("cmp_host" in window)) {
-    window.cmp_host = "d.delivery.consentmanager.net"
-  }
-  if (!("cmp_cdn" in window)) {
-    window.cmp_cdn = "cdn.consentmanager.net"
-  }
-  if (!("cmp_proto" in window)) {
-    window.cmp_proto = "https:"
-  }
-  if (!("cmp_codesrc" in window)) {
-    window.cmp_codesrc = "1"
-  }
-  window.cmp_getsupportedLangs = function() {
-    var b = ["DE","EN", "FR", "IT", "NO", "DA", "FI", "ES", "PT", "RO", "BG", "ET", "EL", "GA", "HR", "LV", "LT", "MT", "NL", "PL", "SV", "SK", "SL", "CS", "HU", "RU", "SR", "ZH", "TR", "UK", "AR", "BS"];
-if ("cmp_customlanguages" in window) {
-      for (var a = 0; a < window.cmp_customlanguages.length; a++) {
-        b.push(window.cmp_customlanguages[a].l.toUpperCase())
-      }
-    }
-    return b
-  };
-  window.cmp_getRTLLangs = function() {
-    var a = ["AR"];
-    if ("cmp_customlanguages" in window) {
-      for (var b = 0; b < window.cmp_customlanguages.length; b++) {
-        if ("r" in window.cmp_customlanguages[b] && window.cmp_customlanguages[b].r) {
-          a.push(window.cmp_customlanguages[b].l)
-        }
-      }
-    }
-    return a
-  };
-  window.cmp_getlang = function(j) {
-    if (typeof(j) != "boolean") {
-      j = true
-    }
-    if (j && typeof(cmp_getlang.usedlang) == "string" && cmp_getlang.usedlang !== "") {
-      return cmp_getlang.usedlang
-    }
-    var g = window.cmp_getsupportedLangs();
-    var c = [];
-    var f = location.hash;
-    var e = location.search;
-    var a = "languages" in navigator ? navigator.languages : [];
-    if (f.indexOf("cmplang=") != -1) {
-      c.push(f.substr(f.indexOf("cmplang=") + 8,2).toUpperCase())
-} else {
-      if (e.indexOf("cmplang=") != -1) {
-        c.push(e.substr(e.indexOf("cmplang=") + 8,2).toUpperCase())
-} else {
-        if ("cmp_setlang" in window && window.cmp_setlang != "") {
-          c.push(window.cmp_setlang.toUpperCase())
-        } else {
-          if (a.length > 0) {
-            for (var d = 0; d < a.length; d++) {
-              c.push(a[d])
-            }
-          }
-        }
-      }
-    }
-    if ("language" in navigator) {
-      c.push(navigator.language)
-    }
-    if ("userLanguage" in navigator) {
-      c.push(navigator.userLanguage)
-    }
-    var h = "";
-    for (var d = 0; d < c.length; d++) {
-      var b = c[d].toUpperCase();
-      if (g.indexOf(b) != -1) {
-        h = b;
-        break
-      }
-      if (b.indexOf("-") != -1) {
-        b = b.substr(0,2)
-}
-      if (g.indexOf(b) != -1) {
-        h = b;
-        break
-      }
-    }
-    if (h == "" && typeof(cmp_getlang.defaultlang) == "string" && cmp_getlang.defaultlang !== "") {
-      return cmp_getlang.defaultlang
-    } else {
-      if (h == "") {
-        h = "EN"
-      }
-    }
-    h = h.toUpperCase();
-    return h
-  };
-  (function() {
-    var u = document;
-    var v = u.getElementsByTagName;
-    var h = window;
-    var o = "";
-    var b = "_en";
-    if ("cmp_getlang" in h) {
-      o = h.cmp_getlang().toLowerCase();
-      if ("cmp_customlanguages" in h) {
-        for (var q = 0; q < h.cmp_customlanguages.length; q++) {
-          if (h.cmp_customlanguages[q].l.toUpperCase() == o.toUpperCase()) {
-            o = "en";
-            break
-          }
-        }
-      }
-      b = "_" + o
-    }
-
-    function x(i,e) {
-var w = "";
-      i += "=";
-      var s = i.length;
-      var d = location;
-      if (d.hash.indexOf(i) != -1) {
-        w = d.hash.substr(d.hash.indexOf(i) + s,9999)
-} else {
-        if (d.search.indexOf(i) != -1) {
-          w = d.search.substr(d.search.indexOf(i) + s,9999)
-} else {
-          return e
-        }
-      }
-      if (w.indexOf("&") != -1) {
-        w = w.substr(0,w.indexOf("&"))
-}
-      return w
-    }
-    var k = ("cmp_proto" in h) ? h.cmp_proto : "https:";
-    if (k != "http:" && k != "https:") {
-      k = "https:"
-    }
-    var g = ("cmp_ref" in h) ? h.cmp_ref : location.href;
-    var j = u.createElement("script");
-    j.setAttribute("data-cmp-ab","1");
-var c = x("cmpdesign","cmp_design" in h ? h.cmp_design : "");
-var f = x("cmpregulationkey","cmp_regulationkey" in h ? h.cmp_regulationkey : "");
-var r = x("cmpgppkey","cmp_gppkey" in h ? h.cmp_gppkey : "");
-var n = x("cmpatt","cmp_att" in h ? h.cmp_att : "");
-j.src = k + "//" + h.cmp_host + "/delivery/cmp.php?" + ("cmp_id" in h && h.cmp_id > 0 ? "id=" + h.cmp_id : "") + ("cmp_cdid" in h ? "&cdid=" + h.cmp_cdid : "") + "&h=" + encodeURIComponent(g) + (c != "" ? "&cmpdesign=" + encodeURIComponent(c) : "") + (f != "" ? "&cmpregulationkey=" + encodeURIComponent(f) : "") + (r != "" ? "&cmpgppkey=" + encodeURIComponent(r) : "") + (n != "" ? "&cmpatt=" + encodeURIComponent(n) : "") + ("cmp_params" in h ? "&" + h.cmp_params : "") + (u.cookie.length > 0 ? "&__cmpfcc=1" : "") + "&l=" + o.toLowerCase() + "&o=" + (new Date()).getTime();
-    j.type = "text/javascript";
-    j.async = true;
-    if (u.currentScript && u.currentScript.parentElement) {
-      u.currentScript.parentElement.appendChild(j)
-    } else {
-      if (u.body) {
-        u.body.appendChild(j)
-      } else {
-        var t = v("body");
-        if (t.length == 0) {
-          t = v("div")
-        }
-        if (t.length == 0) {
-          t = v("span")
-        }
-        if (t.length == 0) {
-          t = v("ins")
-        }
-        if (t.length == 0) {
-          t = v("script")
-        }
-        if (t.length == 0) {
-          t = v("head")
-        }
-        if (t.length > 0) {
-          t[0].appendChild(j)
-        }
-      }
-    }
-    var m = "js";
-    var p = x("cmpdebugunminimized","cmpdebugunminimized" in h ? h.cmpdebugunminimized : 0) > 0 ? "" : ".min";
-var a = x("cmpdebugcoverage","cmp_debugcoverage" in h ? h.cmp_debugcoverage : "");
-if (a == "1") {
-      m = "instrumented";
-      p = ""
-    }
-    var j = u.createElement("script");
-    j.src = k + "//" + h.cmp_cdn + "/delivery/" + m + "/cmp" + b + p + ".js";
-    j.type = "text/javascript";
-    j.setAttribute("data-cmp-ab","1");
-j.async = true;
-    if (u.currentScript && u.currentScript.parentElement) {
-      u.currentScript.parentElement.appendChild(j)
-    } else {
-      if (u.body) {
-        u.body.appendChild(j)
-      } else {
-        var t = v("body");
-        if (t.length == 0) {
-          t = v("div")
-        }
-        if (t.length == 0) {
-          t = v("span")
-        }
-        if (t.length == 0) {
-          t = v("ins")
-        }
-        if (t.length == 0) {
-          t = v("script")
-        }
-        if (t.length == 0) {
-          t = v("head")
-        }
-        if (t.length > 0) {
-          t[0].appendChild(j)
-        }
-      }
-    }
-  })();
-  window.cmp_addFrame = function(b) {
-    if (!window.frames[b]) {
-      if (document.body) {
-        var a = document.createElement("iframe");
-        a.style.cssText = "display:none";
-        if ("cmp_cdn" in window && "cmp_ultrablocking" in window && window.cmp_ultrablocking > 0) {
-          a.src = "//" + window.cmp_cdn + "/delivery/empty.html"
-        }
-        a.name = b;
-        a.setAttribute("title","Intentionally hidden, please ignore");
-a.setAttribute("role","none");
-a.setAttribute("tabindex","-1");
-document.body.appendChild(a)
-      } else {
-        window.setTimeout(window.cmp_addFrame,10, b)
-}
-    }
-  };
-  window.cmp_rc = function(h) {
-    var b = document.cookie;
-    var f = "";
-    var d = 0;
-    while (b != "" && d < 100) {
-      d++;
-      while (b.substr(0,1) == " ") {
-b = b.substr(1,b.length)
-}
-      var g = b.substring(0,b.indexOf("="));
-if (b.indexOf(";") != -1) {
-        var c = b.substring(b.indexOf("=") + 1,b.indexOf(";"))
-} else {
-        var c = b.substr(b.indexOf("=") + 1,b.length)
-}
-      if (h == g) {
-        f = c
-      }
-      var e = b.indexOf(";") + 1;
-      if (e == 0) {
-        e = b.length
-      }
-      b = b.substring(e,b.length)
-cmpId: 31
-          },true)
-} else {
-          a[2](false,true)
-uspString: window.cmp_rc("")
-          },true)
-} else {
-          if (a[0] === "getTCData") {
-            __cmp.a.push([].slice.apply(a))
-          } else {
-            if (a[0] === "addEventListener" || a[0] === "removeEventListener") {
-              __cmp.a.push([].slice.apply(a))
-            } else {
-              if (a.length == 4 && a[3] === false) {
-                a[2]({},false)
-supportedAPIs: ["tcfca","usnat", "usca", "usva", "usco", "usut", "usct"],
-pingData: window.cmp_gpp_ping()
-        }
-      } else {
-        if (g === "removeEventListener") {
-          var h = false;
-          __gpp.e = __gpp.e || [];
-          for (var d = 0; d < __gpp.e.length; d++) {
-            if (__gpp.e[d].id == e) {
-              __gpp.e[d].splice(d,1);
-pingData: window.cmp_gpp_ping()
-            }
-          } else {
-            if (g === "hasSection" || g === "getSection" || g === "getField") {
-              return null
-            } else {
-              __gpp.q.push([].slice.apply(a))
-            }
-          }
-        }
-      }
-    }
-  };
-  window.cmp_msghandler = function(d) {
-    var a = typeof d.data === "string";
-    try {
-      var c = a ? JSON.parse(d.data) : d.data
-    } catch (f) {
-      var c = null
-    }
-    if (typeof(c) === "object" && c !== null && "__cmpCall" in c) {
-      var b = c.__cmpCall;
-      window.__cmp(b.command,b.parameter, function(h, g) {
-callId: b.callId
-          }
-        };
-        d.source.postMessage(a ? JSON.stringify(e) : e,"*")
-})
-    }
-    if (typeof(c) === "object" && c !== null && "__uspapiCall" in c) {
-      var b = c.__uspapiCall;
-      window.__uspapi(b.command,b.version, function(h, g) {
-callId: b.callId
-          }
-        };
-        d.source.postMessage(a ? JSON.stringify(e) : e,"*")
-})
-    }
-    if (typeof(c) === "object" && c !== null && "__tcfapiCall" in c) {
-      var b = c.__tcfapiCall;
-      window.__tcfapi(b.command,b.version, function(h, g) {
-callId: b.callId
-          }
-        };
-        d.source.postMessage(a ? JSON.stringify(e) : e,"*")
-},b.parameter)
-}
-    if (typeof(c) === "object" && c !== null && "__gppCall" in c) {
-      var b = c.__gppCall;
-      window.__gpp(b.command,function(h, g) {
-callId: b.callId
-          }
-        };
-        d.source.postMessage(a ? JSON.stringify(e) : e,"*")
-},"parameter" in b ? b.parameter : null, "version" in b ? b.version : 1)
-}
-  };
-  window.cmp_setStub = function(a) {
-    if (!(a in window) || (typeof(window[a]) !== "function" && typeof(window[a]) !== "object" && (typeof(window[a]) === "undefined" || window[a] !== null))) {
-      window[a] = window.cmp_stub;
-      window[a].msgHandler = window.cmp_msghandler;
-      window.addEventListener("message",window.cmp_msghandler, false)
-}
-  };
-  window.cmp_setGppStub = function(a) {
-    if (!(a in window) || (typeof(window[a]) !== "function" && typeof(window[a]) !== "object" && (typeof(window[a]) === "undefined" || window[a] !== null))) {
-      window[a] = window.cmp_gppstub;
-      window[a].msgHandler = window.cmp_msghandler;
-      window.addEventListener("message",window.cmp_msghandler, false)
-}
-  };
-  window.cmp_addFrame("__cmpLocator");
-  if (!("cmp_disableusp" in window) || !window.cmp_disableusp) {
-    window.cmp_addFrame("__uspapiLocator")
-  }
-  if (!("cmp_disabletcf" in window) || !window.cmp_disabletcf) {
-    window.cmp_addFrame("__tcfapiLocator")
-  }
-  if (!("cmp_disablegpp" in window) || !window.cmp_disablegpp) {
-    window.cmp_addFrame("__gppLocator")
-  }
-  window.cmp_setStub("__cmp");
-  if (!("cmp_disabletcf" in window) || !window.cmp_disabletcf) {
-    window.cmp_setStub("__tcfapi")
-  }
-  if (!("cmp_disableusp" in window) || !window.cmp_disableusp) {
-    window.cmp_setStub("__uspapi")
-  }
-  if (!("cmp_disablegpp" in window) || !window.cmp_disablegpp) {
-    window.cmp_setGppStub("__gpp")
-  };
-</script></head>
-<body ><img src="https://l.cdn-fileserver.com/bping.php?vgd_cage=55&vgd_oresf=one&ssld=%7B%22QQNN%22%3A%22Pb%22%2C%22QQN75%22%3A%22NwJ5JzzJ%22%2C%22QQ8E%22%3A%22%22%2C%22QQQN%22%3A%22p3%22%2C%22QQl8E%22%3A%22%22%7D&cid=8CU7G8B38&vi=1788508513575813733&lf=6&requrl=https%3A%2F%2Fgh-proxy.net&r=1788508513438&vgd_tsce=L1342&vgd_oreqf=one&vgd_rpth=%2Fola&wshp=0&vgd_cdv=O3435&vgd_l2type=dmola&prid=8PR11258V&crid=342704488&cc=US&sc=WY&mspa=0&vgd_setup=c21&vgd_wlstp=0&hvsid=00001788508513436008829795845038&ugd=4&lper=100&wsip=170763426&vgd_asn=8075&gdpr=0&vgd_len=556&vgd_end=1" width="0px" height="0px" style="display: none !important" id="_ol_lg_1788508513575813733" /><div id="_ol_one_1788508513575813733" > </div><script type="text/javascript">!function(){"use strict";var d,i={"id":"_ol_one_1788508513575813733","l2u":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?00=zx\u00260Ct=.7z1%2A.WO.\u00260YCt=O~91A~~..\u00260pPF9=DLV~%21CPw0\u00260pPFO=ZNv.%2AOb1v\u00260tV=vO~OU\u00260w6Ct=\u00263aY_=\u00263t=\u00266Ct=.Nv5znbGO\u0026B0YCt=\u0026CLCt=A\u0026CPw0K=.csin1UsS%3Av.2S%291%7CTB.s%3A_d4HCgHgCfHgue%7CT%29.s%3Ae_HgfgHegHd\u0026DCt=0AJ__hO~T.tAOT~h0_Td9~hTdUUBA9t1tdBt\u0026DKh_=DPB\u0026FL6h=A\u0026JB=A\u0026JCt=\u0026JCtV9=\u0026JhB=\u0026JtYRt=\u0026K9wM6B=tFDKh\u0026L0=4c\u0026LCXB=ZZU~rq.d\u0026LJtYRt=\u0026LLKt=%7B%22LL00%22%3A%22zx%22%2C%22LL0wM%22%3A%220pBMBPPB%22%2C%22LLC6%22%3A%22%22%2C%22LLL0%22%3A%224c%22%2C%22LLXC6%22%3A%22%22%7D\u0026M6K6=\u0026MJP%2100%21Br6=\u0026MtL6Y=\u0026PFBYY=Z\u0026PwV=\u0026Qt6Y=A\u0026Qt6Y0PLw=\u0026VC=Z1..UA.UZOU1U.ZO1OO\u0026YBygYK=pww6L%3A%2F%2FQpT6YDrMHPBw\u0026_L=\u0026aKLw6=A\u0026aLp6=A\u0026gL6BP_=A\u0026gQt=~\u0026h0w=NWRPByOB%29XOQyB~__BQg%2FOrrQjQh~g_Yyjr\u0026h67g=\u0026hJ_KaCt=V9\u0026htDFhCP=\u0026htV=\u0026htmlsrc=1\u0026htw9=\u0026htwZ=\u0026iJCt=-n+GNx+kBLw+T+~+2BVBK\u0026kkdd=un%7CW%7CH3h%2AnuA9\u0026pww6L=Z\u0026tB0FFF=\u0026tFY_=Z\u0026tpid=\u0026wL0B=2ZO~9","l2h":"acl=\u0026aclp=\u0026cl=\u0026clp=\u0026hvsid=00001788508513436008829795845038\u0026l2type=dmola\u0026lp=%7B%22ppvi%22%3A%222153605411347017616%22%2C%22wlstp%22%3A%220%22%7D\u0026matchstring=\u0026pvl=%7B%22nmerr%22%3A%221%22%7D\u0026pvlp=\u0026sbdrId=\u0026verid=","vgh":"vgd_sc=WY\u0026vgd_cmp_inj_fl=true","so":{"l2host":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2AN1=\u0026%2AfYKK=k\u0026028=\u00260281q=\u002608KF8=\u00260Y=I\u00260eY=\u002612=kQLLgILgk6gQgLk6Q66\u00262%2ANAG=LojUXQgjR%3AVL7RDQ%7CwYLj%3AWta%212~%21~2%28%21~Or%7CwDLj%3ArW%21~%28~%21r~%21t\u00262C28=I\u002638_K=I\u002638_KA%2ACN=\u00268YAfff=\u00268fKW=k\u0026A28=LmBQ9Lc6L\u0026A81=V6d6g\u0026AA=BP\u0026AK28=6dqQIddLL\u0026AN_28=\u0026Ay%2Af6=kTVL96iQV\u0026Ay%2Afq=vC1ds2%2ANA\u0026C08KF8=\u0026C2SY=kkgd%29zLt\u0026CA=ao\u0026CCG8=%7B%22CCAA%22%3A%22BP%22%2C%22CCANn%22%3A%22AyYnY%2A%2AY%22%2C%22CC2_%22%3A%22%22%2C%22CCCA%22%3A%22ao%22%2C%22CCS2_%22%3A%22%22%7D\u0026GqNn_Y=8fvGe\u0026KY4~KG=yNN_C%3A%2F%2F3yw_Kv%29n%21%2AYN\u0026NCAY=7k6dq\u0026U028=ZX+5TP+hYCN+w+d+7Y1YG\u0026WC=\u0026YAK28=\u0026_28=LTVxBXi56\u0026e0WGl28=1q\u0026e81=\u0026e8Nk=\u0026e8Nq=\u0026e8vfe2%2A=\u0026eAN=TcF%2AY46YDS634YdWWY3~%2F6%29%293u3ed~WK4u%29\u0026e_m~=\u0026fC_e=I\u0026htmlsrc=1\u0026kkdd=3%7C%21%7CW%2AAn39huH\u0026lCy_=I\u0026lGCN_=I\u0026n0%2AsAAsY%29_=\u0026n8C_K=\u0026n_G_=\u0026p8=\u0026plKW=\u0026tpid=\u0026v28=AI0WWe6dwL8I6wdeAWwtqdewtggYIq8Q8tY8\u0026vGeW=v%2AY\u0026yNN_C=k\u0026~38=d\u0026~C_Y%2AW=I","be":"0","nmerr":"1"},"w":"100%","h":"100%","scr":"yes","ek":"cut2FAC698y RjrwgLUqsSo71/J53V~4lPWe-0_nfBXaKTbizdvkZ|DpGMNIYHxO=QhEm","es":11,"m":{"alc":[{"ht":"https://l.cdn-fileserver.com","pt":"log","tp":"CM"},{"ht":"https://gh-proxy.net","pt":"sk-lgprxfwd.php","tp":"DM"}],"vi":"1788508513575813733","cid":"8CU7G8B38","crid":"342704488","rl":"https://gh-proxy.net","mprpslog":"pEI7r1iEwGgFMfQ_6bK9u1xRan3MyuxZkzaaB-hLYEOPsuuHx8HzF_u2zZsgq9w_lQHJzKNXlyvJwy3CHTre4TAg_cWwFDBAzCAiy-Ipo7Yj4kvGWwFzkoHyHroIQBFXLlFgenBhQjtEhPwi_H_QeNRrglXfhox6hqfhGBCooePMlqRQOB5ZbtVTClss9WLyE3VgLvtx3hc%3D"}};(d=document.createElement("div")).className=["adclass","googleAdSense","MediumRectangleAdPanel","adv_left","browse-banner_ad","sponsored"].join(" "),d.id="abp_px",d.style.cssText="opacity: 0; visibility: hidden; width: 0; height: 0; position: absolute; top: -9999px; left: -9999px;",document.body.appendChild(d),window.setTimeout(function(){var e,t="none"===(e="display",(t=d).style[e]||(t.currentStyle?t.currentStyle[e]:document.defaultView&&document.defaultView.getComputedStyle?(e=(e=e.replace(/([A-Z])/g,"-$1")).toLowerCase(),(t=document.defaultView.getComputedStyle(t,""))&&t.getPropertyValue(e)):null));if(d.parentNode.removeChild(d),t)for(var n=i.m&&i.m.alc?i.m.alc:{},o=0;o<n.length;o++)!function(e,t){var n=new Image,o=i.m&&i.m.rl?encodeURIComponent(i.m.rl).replace(/#.*/g,""):"",d={logid:"kfk",evtid:"adpl",tp:t,cid:i.m&&i.m.cid?i.m.cid:"",crid:i.m&&i.m.crid?i.m.crid:"",vi:i.m&&i.m.vi?i.m.vi:"",requrl:o,adt1:t},t=Object.keys(d).filter(function(e){return"requrl"!==e}).map(function(e){return encodeURIComponent(e)+"="+encodeURIComponent(d[e])}).join("&");n.src=e+"?"+t+"&requrl="+o}(n[o].ht+"/"+n[o].pt,n[o].tp)},0)}();!function(){window.olaSyncCount=window.olaSyncCount||0,window.__bdata="";var e,t,n,o,c,r,i,d,a,s,u,l,m={"id":"_ol_one_1788508513575813733","l2u":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?00=zx\u00260Ct=.7z1%2A.WO.\u00260YCt=O~91A~~..\u00260pPF9=DLV~%21CPw0\u00260pPFO=ZNv.%2AOb1v\u00260tV=vO~OU\u00260w6Ct=\u00263aY_=\u00263t=\u00266Ct=.Nv5znbGO\u0026B0YCt=\u0026CLCt=A\u0026CPw0K=.csin1UsS%3Av.2S%291%7CTB.s%3A_d4HCgHgCfHgue%7CT%29.s%3Ae_HgfgHegHd\u0026DCt=0AJ__hO~T.tAOT~h0_Td9~hTdUUBA9t1tdBt\u0026DKh_=DPB\u0026FL6h=A\u0026JB=A\u0026JCt=\u0026JCtV9=\u0026JhB=\u0026JtYRt=\u0026K9wM6B=tFDKh\u0026L0=4c\u0026LCXB=ZZU~rq.d\u0026LJtYRt=\u0026LLKt=%7B%22LL00%22%3A%22zx%22%2C%22LL0wM%22%3A%220pBMBPPB%22%2C%22LLC6%22%3A%22%22%2C%22LLL0%22%3A%224c%22%2C%22LLXC6%22%3A%22%22%7D\u0026M6K6=\u0026MJP%2100%21Br6=\u0026MtL6Y=\u0026PFBYY=Z\u0026PwV=\u0026Qt6Y=A\u0026Qt6Y0PLw=\u0026VC=Z1..UA.UZOU1U.ZO1OO\u0026YBygYK=pww6L%3A%2F%2FQpT6YDrMHPBw\u0026_L=\u0026aKLw6=A\u0026aLp6=A\u0026gL6BP_=A\u0026gQt=~\u0026h0w=NWRPByOB%29XOQyB~__BQg%2FOrrQjQh~g_Yyjr\u0026h67g=\u0026hJ_KaCt=V9\u0026htDFhCP=\u0026htV=\u0026htmlsrc=1\u0026htw9=\u0026htwZ=\u0026iJCt=-n+GNx+kBLw+T+~+2BVBK\u0026kkdd=un%7CW%7CH3h%2AnuA9\u0026pww6L=Z\u0026tB0FFF=\u0026tFY_=Z\u0026tpid=\u0026wL0B=2ZO~9","l2h":"acl=\u0026aclp=\u0026cl=\u0026clp=\u0026hvsid=00001788508513436008829795845038\u0026l2type=dmola\u0026lp=%7B%22ppvi%22%3A%222153605411347017616%22%2C%22wlstp%22%3A%220%22%7D\u0026matchstring=\u0026pvl=%7B%22nmerr%22%3A%221%22%7D\u0026pvlp=\u0026sbdrId=\u0026verid=","vgh":"vgd_sc=WY\u0026vgd_cmp_inj_fl=true","so":{"l2host":"https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2AN1=\u0026%2AfYKK=k\u0026028=\u00260281q=\u002608KF8=\u00260Y=I\u00260eY=\u002612=kQLLgILgk6gQgLk6Q66\u00262%2ANAG=LojUXQgjR%3AVL7RDQ%7CwYLj%3AWta%212~%21~2%28%21~Or%7CwDLj%3ArW%21~%28~%21r~%21t\u00262C28=I\u002638_K=I\u002638_KA%2ACN=\u00268YAfff=\u00268fKW=k\u0026A28=LmBQ9Lc6L\u0026A81=V6d6g\u0026AA=BP\u0026AK28=6dqQIddLL\u0026AN_28=\u0026Ay%2Af6=kTVL96iQV\u0026Ay%2Afq=vC1ds2%2ANA\u0026C08KF8=\u0026C2SY=kkgd%29zLt\u0026CA=ao\u0026CCG8=%7B%22CCAA%22%3A%22BP%22%2C%22CCANn%22%3A%22AyYnY%2A%2AY%22%2C%22CC2_%22%3A%22%22%2C%22CCCA%22%3A%22ao%22%2C%22CCS2_%22%3A%22%22%7D\u0026GqNn_Y=8fvGe\u0026KY4~KG=yNN_C%3A%2F%2F3yw_Kv%29n%21%2AYN\u0026NCAY=7k6dq\u0026U028=ZX+5TP+hYCN+w+d+7Y1YG\u0026WC=\u0026YAK28=\u0026_28=LTVxBXi56\u0026e0WGl28=1q\u0026e81=\u0026e8Nk=\u0026e8Nq=\u0026e8vfe2%2A=\u0026eAN=TcF%2AY46YDS634YdWWY3~%2F6%29%293u3ed~WK4u%29\u0026e_m~=\u0026fC_e=I\u0026htmlsrc=1\u0026kkdd=3%7C%21%7CW%2AAn39huH\u0026lCy_=I\u0026lGCN_=I\u0026n0%2AsAAsY%29_=\u0026n8C_K=\u0026n_G_=\u0026p8=\u0026plKW=\u0026tpid=\u0026v28=AI0WWe6dwL8I6wdeAWwtqdewtggYIq8Q8tY8\u0026vGeW=v%2AY\u0026yNN_C=k\u0026~38=d\u0026~C_Y%2AW=I","be":"0","nmerr":"1"},"w":"100%","h":"100%","scr":"yes","ek":"cut2FAC698y RjrwgLUqsSo71/J53V~4lPWe-0_nfBXaKTbizdvkZ|DpGMNIYHxO=QhEm","es":11,"m":{"alc":[{"ht":"https://l.cdn-fileserver.com","pt":"log","tp":"CM"},{"ht":"https://gh-proxy.net","pt":"sk-lgprxfwd.php","tp":"DM"}],"vi":"1788508513575813733","cid":"8CU7G8B38","crid":"342704488","rl":"https://gh-proxy.net","mprpslog":"pEI7r1iEwGgFMfQ_6bK9u1xRan3MyuxZkzaaB-hLYEOPsuuHx8HzF_u2zZsgq9w_lQHJzKNXlyvJwy3CHTre4TAg_cWwFDBAzCAiy-Ipo7Yj4kvGWwFzkoHyHroIQBFXLlFgenBhQjtEhPwi_H_QeNRrglXfhox6hqfhGBCooePMlqRQOB5ZbtVTClss9WLyE3VgLvtx3hc%3D"}};function p(){var e,t=m.cks;f(t)&&(document.body?((e=document.createElement("iframe")).id="_mN_cksync_"+window.olaSyncCount,e.width=0,e.height=0,e.style.display="none",e.style.visibility="hidden",e.setAttribute("frameborder","0"),document.body.appendChild(e),e=e,t=t,t="<!DOCTYPE html><html><head>"+["<scr",'ipt type="text/javascript">'].join("")+'var syncURL = "'+t+'" ;  function createTag() { window.location.replace(syncURL); }'+["</scr","ipt>"].join("")+'</head><body onload="createTag()"></body></html>',(e=(e=e.contentWindow||e.contentDocument).document?e.document:e).open(),e.write(t),e.close(),window.olaSyncCount++):setTimeout(p,100))}function w(e){for(var t=m.es,n=m.ek,o=(e=""+e,""),c=0;c<e.length;c++){var r=e.charAt(c),i=n.indexOf(r);o+=0<=i?n.charAt((i+t)%n.length):r}return o}function h(e){return e&&"object"==typeof e}function y(e){return"function"==typeof e}function f(e){switch(typeof e){case"string":return void 0!==e&&""!==e&&null!==e;case"object":return null!==e;case"number":case"boolean":return 1;default:return}}h(m)&&(e=Date.now(),t={prel2:e},n=m.l2u,o=m.l2h,c=m.vgh,r=m.so,i=m.m,d=m.w,a=m.h,s=m.scr,u=m.id,y(window.csRsz2)?r.resdnv2=window.csRsz2():r.resdnv2=i.cr,n=n+"&eobd="+encodeURIComponent(w(decodeURIComponent(window.__bdata)))+"&eoac="+encodeURIComponent(w(i.acid)),f(i.chnm)&&(n=n+"&eoch="+encodeURIComponent(w(i.chnm))),h(i.ssm)&&h(i.clkd)&&(i.clkd.bdata=decodeURIComponent(window.__bdata),r.ssmcr=i.ssm,r.clkTrkData=i.clkd),n=function(e,t,n){e=e.split("?");return e[0]+"?"+t+"="+encodeURIComponent(n)+"&"+e[1]}(n,"ule",n.length),n+="&ure=1",r.csip=i.csip,y(window.userFrequencyTracker)&&(0<(l=userFrequencyTracker().getLocalStorageCount())&&(c+="&vgd_lsct="+l),0<(l=userFrequencyTracker().getSessionStorageCount()))&&(c+="&vgd_ssct="+l),l=c+"&"+o+"&acid="+i.acid+"&mprpslog="+i.mprpslog+"&tchkpts="+encodeURIComponent(JSON.stringify(t))+"&stime="+e+"&l3d="+encodeURIComponent(encodeURIComponent(JSON.stringify(r))),i.prvDet&&(l+="&prvDet="+encodeURIComponent(JSON.stringify(i.prvDet))),function(){var t=!1;try{"object"==typeof window.top&&"object"==typeof window&&(t=window.top!=window)}catch(e){t=!0}return t}()&&(l+="&infr=1"),function(e){try{if(e&&e.top&&e.top.document)return 1}catch(e){}return}(window)||(l+="&twna=1"),""===s&&(s="no"),(c=document.createElement("iframe")).width=d,c.height=a,c.setAttribute("src",n+"#"+l),c.setAttribute("scrolling",s),c.setAttribute("frameborder","0"),c.setAttribute("marginheight","0"),c.setAttribute("marginwidth","0"),c.onload=function(){p()},document.getElementById(u).appendChild(c))}();</script><div >
-<a style="display: none;height:25px;line-height:25px;color: rgb(136,136, 136);text-align: center;line-height:25px;width: 100%;position: fixed;bottom: 0px;left: 0px;z-index: 9999;background-color: #10162c;padding: 0px 0;text-decoration: none;font-family: Arial, sans-serif;font-size: clamp(11px, 2.5vw, 15px);" id="dnslink" href="#" onclick="__cmp('showScreen'); return false">Do Not Sell or Share My Personal Information</a>
-</div><script>
-  function checkDNS() {
-    __cmp('getCMPData',true, function(x) {
-var possibleKeys = ['CCPA','USVCDPA','USCPA','USUCPA','USCAPDP','USTDPSA','USOCDPA','USMTCDPA','USFDBR','USDPDPA','USICDPA','USNEDPA','USNHPA','USNJDPA','USTIPA','USMCDPA']; //add possible regulations where to show the DNS-link
-if ('regulationKey' in x && possibleKeys.indexOf(x.regulationKey) != -1) {
-          document.getElementById('dnslink').style.display = 'block'; /* show the link*/
-          document.querySelectorAll('[id^="_ol_one_"]').forEach(el => {
-  			el.style.height = "calc(100vh - 25px)";
-          });
-        } else {
-          document.getElementById('dnslink').style.display = 'none'; /* don't show the link*/
-		  document.querySelectorAll('[id^="_ol_one_"]').forEach(el => {
-  			el.style.height = "100vh";
-          });
-        }
-      });
-    }
-    setInterval(checkDNS,1000);
+<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-uld8ElffJkPRth2xFsGGiK&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce="uld8ElffJkPRth2xFsGGiK">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'xkOTrmropID4Rnk_IhKAE1o0IdpVDLVDkgMkaymMT60-1788510724-1.2.1.1-yBKZ5DvVKo4FW7o_kWtwhrppy4aUShpgmHickFq.OMsl5wLVxMXI06uCloX8xMvt',cITimeS: '1788510724',cN: 'uld8ElffJkPRth2xFsGGiK',cRay: 'a35ba43eea5be566',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/live.m3u?__cf_chl_tk=TOkVx3DVTdqGSQDRuRmTY8_EFvmNhtQ3aeZoNSlqGuc-1788510724-1.0.1.1-GeDNDBYI9EpHxhdJaIveFhzkcx8C9o.d4YivnG5jdpw",cvId: '3',cZone: 'live.iptv365.org',fa:"/live.m3u?__cf_chl_f_tk=TOkVx3DVTdqGSQDRuRmTY8_EFvmNhtQ3aeZoNSlqGuc-1788510724-1.0.1.1-GeDNDBYI9EpHxhdJaIveFhzkcx8C9o.d4YivnG5jdpw",md: 'CQ078elao7RU2bjvvaI1tsYzgKa9V3.PiFAkm5z.rTI-1788510724-1.2.1.1-39zw5icyA17dNESidEQp2oql_r_Y58vRuFOYj2Av5jDP5WD3fYKnD8FlmJ0GOMzhm1skPHbxfcfhbhc0PIcGkypicVXBfdvqf3vIOs1qxjUNnyCPGXZq5BYMUueD1HGpI2pwvQHSjGUi3axozsexV47jHvvYBtzsvTUtvmHilK33wyI8FC3pPUDO_YER7fOYZA1Hv1sLP85Zh6oTT8RInSvs9F.3V5icUgBYISPoK5uTTb9gOYbE8x8l0pFLMMuo.gHNGpzXkB_oU00jhC0xHRXDXgZGqtBT4AzaZzI7Ph2WDy8MWttmQc2febdX1umkBZWKcIV0u.wkZ6Err2iYVAmbUi3bPyGDR23XzFHRJUcO0cdKZWCg.RJtxcgbYuYI_8NXhsHvQV3sLN8l.MFPgyHYSHVvtTAK2iP3_xtLfzYH2Rd1PA17NfLKpSxejom86m0GH3M27yBf7Ati8rZLEHBSpeuRVSb6q9uukp9ina5JiGZq2jTx4wqFFlMiZCzk6cjk4ZOdwZIVZwOLKjG_J6DJN8jkcBEHY17EdEm1DMqwDZTe_vTlp_zCMqfuYLn2ZfZIeJTwhQqx17bH8aJs0uPwjM7LBcYol32Y08YuDGQFLk4aSUctb3KPxJVw7pUOrqNxTJEm1RAneBjRm4Uk5qeuf3mREX87PxIX.iGuttBqW8w6yzUart4lYoPVepd2FLREVWSUuqIhuN8mB_KQ.TPODF70rguWIMAstdItuKSgn_VaypeK_9nAUpeLif7E5XWpvuAdM3b.YRealGSSXaITjzDos5BOs7YcgEFoDDiCckl6sZDcBtgFY7E7eiyWbBzkgEvTmjdZPcqEL0n4MUpj4Khc8.TzGTdB4ad3vD7_Y5LQ15wtgHcx1Lrk6L73djW4pGUld6eKZLPaSo_PEoaKNonpyHCUgJxMVY5Fs4z3fctuIwYlaSihYB91xfbOJT2or.IVDAvv8CSJlP9bg6enuz0FvkPltetVd.Hi8yiF1kbWsPaab7xZ5LdpGzWGgiIgBm5F7REXNxJrsPPPhvIYOW_F_nEk.S_XBJ2V6kV7qfwxpA7sK4Gg.sfD94YbFYgwLgdSa49eHK4k3lvwKQ',mdrd: 'lTbYDDAaxKlKxH2DYEvkSYEtQaFxsXUGeogfbRrVRzA-1788510724-1.2.1.1-3mnpuGvlNo5suiJB0giNaG_.tx2whKCTEvGGwe5l8mUv7rETnNCP8wi.7lCX5LJQRIrBOov.Eyv54eYJBZFd_ArFiMHL4UY69ZKrkTDzl6ixkDavPbAeNDBW0lFF.B4cfn2OwmFfiylVdgpEOC9Wf1bC2FAbZ.lkyU2G3AY0NSl2W8KQ0X3oS5n.2OmN2k4g1n9M7IdX8JWiWa7ly0HplNy5VfO9eiDyCVE.pz3AhwK29uD5tLkw9RtqwRS_GPAHjc6Fsh3Lm9S8zh6RDQgDX5Kcl6RGfGKhIEvxz8.Wz9fYYi7qZ6eGr0jIug.z.7CEgaYByF2Iqc473PhzLmBnRI0dJw8WWz6FgPtpmu55mkpP1.l1SzfljKFk1diqhRgf02.8oAfuXWxVrYAYXa0.9Q',};var a = document.createElement('script');a.nonce = 'uld8ElffJkPRth2xFsGGiK';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a35ba43eea5be566';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/live.m3u?__cf_chl_rt_tk=TOkVx3DVTdqGSQDRuRmTY8_EFvmNhtQ3aeZoNSlqGuc-1788510724-1.0.1.1-GeDNDBYI9EpHxhdJaIveFhzkcx8C9o.d4YivnG5jdpw"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
 BTV冬奥纪实,http://121.19.134.6:808/tsfile/live/1036_1.m3u8?key=%2A%2A%2A&playlive=1&authid=%2A%2A%2A
 IPTV热播剧场,http://119.129.172.232:9999/tsfile/live/1008_1.m3u8?key=%2A%2A%2A&playlive=1&authid=%2A%2A%2A
 中国交通,http://121.19.134.139:808/tsfile/live/1031_1.m3u8?key=%2A%2A%2A&playlive=1&authid=%2A%2A%2A
@@ -1471,6 +1068,552 @@ Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
+CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=%2A%2A%2A&playlive=0&authid=%2A%2A%2A
+东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+倚天屠龙记,https://live.metshop.top/huya/23734246
+倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+刑事侦缉档案,https://live.metshop.top/huya/29465856
+刘德华电影,https://live.metshop.top/huya/11342424
+创世纪,https://live.metshop.top/huya/29465852
+功夫电影,https://live.metshop.top/huya/11352941
+南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+古天乐电影,https://live.metshop.top/huya/29982675
+周星驰电影,https://live.metshop.top/huya/11342412
+大唐双龙传,https://live.metshop.top/huya/29465850
+大时代,https://live.metshop.top/huya/23865161
+妙手仁心,https://live.metshop.top/huya/29465853
+宇宙科幻合集,https://live.metshop.top/huya/11342428
+寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+寻秦记,https://live.metshop.top/huya/29465848
+封神榜,https://live.metshop.top/huya/29465849
+射雕英雄传,https://live.metshop.top/huya/23824164
+强森电影,https://live.metshop.top/huya/21059581
+怪兽电影,https://live.metshop.top/huya/21059577
+成龙电影,https://live.metshop.top/huya/11342386
+我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+战争电影,https://live.metshop.top/huya/21059574
+扫黄先锋,https://live.metshop.top/huya/29465855
+拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+无心法师,https://live.metshop.top/huya/30080233
+李连杰电影,https://live.metshop.top/huya/11342390
+林正英电影,https://live.metshop.top/huya/11342421
+枪战电影,https://live.metshop.top/huya/21059579
+楚汉骄雄,https://live.metshop.top/huya/29465854
+武侠电影,https://live.metshop.top/huya/11342427
+沈腾电影,https://live.metshop.top/huya/11601968
+法政先锋,https://live.metshop.top/huya/23863804
+洗冤录,https://live.metshop.top/huya/29465851
+活佛济公3,https://live.metshop.top/huya/23903123
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+狄仁杰电影,https://live.metshop.top/huya/30080229
+王晶电影,https://live.metshop.top/huya/11602058
+电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
+电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
+电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
+电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
+电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
+电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
+电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
+电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
+电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
+电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
+电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
+电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
+电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
+电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
+电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
+电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
+电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
+笑傲江湖,https://live.metshop.top/huya/23865142
+经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+西游记2,https://live.metshop.top/huya/29465859
+让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+谍战电影,https://live.metshop.top/huya/21059585
+贺岁电影,https://live.metshop.top/huya/11601986
+野蛮亲家,https://live.metshop.top/huya/23863796
+金庸武侠,https://live.metshop.top/huya/11342435
+金枝欲孽,https://live.metshop.top/huya/29465847
+鉴证实录,https://live.metshop.top/huya/23903183
+陀枪师姐,https://live.metshop.top/huya/29465857
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+黄渤电影,https://live.metshop.top/huya/11352876
+龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+七龙珠,https://live.metshop.top/huya/11601966
+中华小当家,https://live.metshop.top/huya/11342413
+海绵宝宝,https://live.metshop.top/douyu/3949681
+猫和老鼠,https://live.metshop.top/huya/11352879
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
+七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+万荣综合,http://60.222.246.220:19433/hls1.m3u8
+三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed=
+东丰综合,http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd=
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed=
+云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian%2C=
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian=
+井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
+亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd=
+仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=%2A%2A%2A
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd=
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
+余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed=
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl=
+余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed=
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed=
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed=
+六安公共,http://ls.qingting.fm/live/1794199.m3u8
+六安新闻综合,http://ls.qingting.fm/live/267.m3u8
+兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd=
+剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+双辽综合,http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
+句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%5B%E6%99%B4%E5%9B%AD%5D=
+句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd=
+句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%5B%E6%99%B4%E5%9B%AD%5D=
+可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild=
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild=
+哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
+哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild=
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
+嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
+大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
+天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp%3Bamp%3Btpid=1516989100&amp%3Bamp%3Btype=0
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd=
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd=
+安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
+定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd=
+宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed=#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed=
+常熟民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
+平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed=
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed=
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd=
+广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
+广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd=
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=%2A%2A%2A&txTime=18d57929bd3
+广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
+广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
+广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed%3F=
+延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed=#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed=
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
+开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed=
+张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
+文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed=
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed%3F=
+新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd%22=
+新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd=
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend=
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend%3F=
+无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd=#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
+无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
+无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd=
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
+无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd=#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%5B%E6%99%B4%E5%9B%AD%5D=
+昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd=
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed%3F=
+柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
+桦甸综合,http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
+梅河口综合,http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
+梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=%2A%2A%2A&txTime=7B923E0A&wsSecret=%2A%2A%2A&wsTime=1769313549
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed=
+武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd=
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd=
+汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd=#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
+汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd=
+沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd=
+河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd=
+河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
+河北农民,http://ls.qingting.fm/live/1650.m3u8
+河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd=#http://live1.habctv.com/ggpdsl/sd/live.m3u8
+泸县新闻综合,http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
+泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd=
+泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed%3F=
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd=
+浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+浙江生活,http://ls.qingting.fm/live/1099.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+海南新闻,http://ls.qingting.fm/live/1861.m3u8
+海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd=
+淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
+淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd=
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+渭源新闻,http://play.kankanlive.com/live/1720408280309109.m3u8
+湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=%2A%2A%2A
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=%2A%2A%2A
+湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=%2A%2A%2A
+滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
+烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd%2C=
+璧山综合,http://222.179.42.129:8181/hls1.m3u8
+甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+磐石综合,http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
+祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd=
+福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=fc58882de71ce4575b66002f2475226b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%5B%E6%99%B4%E5%9B%AD%5D=
+缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed%3F=
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed=
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
+苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
+荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend=
+荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?wsSecret=%2A%2A%2A&wsTime=1654956569
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd=#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed=
+萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed%3F=
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+衡水公共,http://ls.qingting.fm/live/2810.m3u8
+衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
+衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed=
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd=
+西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
+西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
+西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
+诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed=
+象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=%2A%2A%2A
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8
+通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
+遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed=
+邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd=
+铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
+镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+长子综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd=
+长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
+长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild=
+长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
+陕西公共,http://ls.qingting.fm/live/1222.m3u8
+陕西新闻咨询,http://112.46.105.20:8009/hls/18/index.m3u8
+陕西秦腔,http://112.46.105.20:8009/hls/22/index.m3u8
+陕西都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
+陕西银龄,http://112.46.105.20:8009/hls/20/index.m3u8
+雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
+青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
+靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
+黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd=
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd=
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
+龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
+龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed=
+龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed=
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild=
+中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild=
+人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd=
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd=
+兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd=
+双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild=
+地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd=
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild=
+柳河,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild=
+桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild=
+江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd=
+汪清,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild=
+玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd=
+珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild=
+白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild=
+磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild=
+自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild=
+辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild=
+通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild=
+靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild=
+飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
+飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild=
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+笑看风云,https://live.metshop.top/huya/29465858
+AMC音乐,https://amchls.wns.live/hls/stream.m3u8
+音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+1996年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+2000年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+2001年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+2002年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+2003年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+2004年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+2005年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+2006年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+2007年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+2009年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+2010年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+2013年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+2014年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+中央电视塔南,https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+丽江古城大水车,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+丽江古城大研花巷观景,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+云南丽江冰川,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+云南丽江印象实景,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+云南丽江玉龙雪山,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+云南丽江玉龙雪山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+云南丽江蓝月谷,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+云南大理崇圣寺三塔中景,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+云南白沙远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+八里沟风景区天界山玻璃栈道,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+八里沟风景区桃花湾瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+六盘山红军长征景区,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+四川四姑娘山隆珠措,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+四川峨眉山远眺贡嘎雪山,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+天涯石,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+恒山悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+泰山南天门,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+泰山大观峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+泰山太平岭,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+泰山白云亭悬崖,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+泰山碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+狮子山鸟瞰丽江古城,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+贵州省兴义市万峰林,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+都江堰鱼嘴,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+陕西洋县国宝朱鹮02,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+鸣沙山,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+黄山,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+黄果树六角亭瀑布,https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+2026-09-04 12:24:42,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
+www.izbds.com,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 ◆◆◆　https://fy.188766.xyz/?ip=home.kuaidi521.com
 ◆◆◆　https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 2026-08-27 14:06:22,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -9883,505 +10026,3 @@ TVB新闻,https://cdn6.cc.cd/163189/wxxw
 经典香港电影,http://122.227.204.50:1905/625703337
 经典香港电影,http://222.134.19.49:8090/625703337
 经典香港电影,http://124.221.146.169:7001/625703337
-经典香港电影,http://121.29.157.193:7788/625703337
-经典香港电影,http://14.118.89.10:7788/625703337
-经典香港电影,http://45.78.61.93:1234/625703337
-经典香港电影,https://live.chinacert.cftest5.cn/cnmg/live/625703337
-经典香港电影,http://47.119.24.76:59093/625703337
-经典香港电影,http://113.98.11.46:3000/625703337
-澳视卫星,https://cdn.qd.je/163189/as
-澳门体育,https://cdn.qd.je/163189/amty
-澳门综艺,https://cdn.qd.je/163189/amzy
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=%2A%2A%2A&txTime=18d00acf487
-汕头经济,http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146
-汕头经济,http://129.211.14.102:25000/gdst.php?id=st2&token=%2A%2A%2A
-汕头综合,http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146
-汕头综合,http://129.211.14.102:25000/gdst.php?id=st1&token=%2A%2A%2A
-深圳国际,http://nn.7x9d.cn/深圳最新.php?id=szgj
-深圳移动,http://nn.7x9d.cn/深圳最新.php?id=szyd
-深圳都市,http://nn.7x9d.cn/深圳最新.php?id=szds
-东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-北京国际,http://123.121.5.183:4000/rtp/239.3.1.235:8000
-北京文艺,http://114.242.62.109:888/hls/18/index.m3u8
-北京文艺,http://123.121.5.183:4000/rtp/239.3.1.242:8000
-北京纪实,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
-北京纪实科教,http://123.121.5.183:4000/rtp/239.3.1.115:8000
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江科教,https://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-浙江纪录,https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
-浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
-南京十八,http://2280.eu.org:1234/838151753
-南京十八,http://fn.gcl.de5.net:5908/gsh950428/838151753
-南京教科,http://2280.eu.org:1234/838153729
-南京教科,http://fn.gcl.de5.net:5908/gsh950428/838153729
-南京新闻综合,http://2280.eu.org:1234/838109047
-南京新闻综合,http://fn.gcl.de5.net:5908/gsh950428/838109047
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
-江苏卫视4K,https://live.chinacert.cftest5.cn/zgst/live/jiangsu4k
-江苏国际,http://113.98.11.46:3000/626064674
-江苏国际,http://117.29.143.59:10000/626064674
-江苏国际,http://123.159.31.239:1234/626064674
-江苏国际,http://222.134.19.49:8090/626064674
-江苏国际,http://jxj.zhgdyun.com:1234/626064674
-江苏国际,http://125.38.164.44:1234/626064674
-江苏国际,http://chen.ccwu.cc:1234/626064674
-江苏国际,http://www.ikerobot.com:1234/626064674
-江苏国际,http://119.233.255.62:1234/626064674
-江苏国际,http://120.48.113.49:6006/626064674
-江苏国际,http://222.213.105.65:7788/626064674
-江苏国际,http://122.227.204.50:1905/626064674
-江苏国际,http://124.221.146.169:7001/626064674
-江苏国际,http://121.29.157.193:7788/626064674
-江苏国际,http://14.118.89.10:7788/626064674
-江苏国际,http://45.78.61.93:1234/626064674
-江苏国际,https://live.chinacert.cftest5.cn/cnmg/live/626064674
-江苏国际,http://47.119.24.76:59093/626064674
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-四川乡村,http://scxclivepull.sctvcloud.com/live/c0b8c1c3018e1000e51198d100000000/playlist.m3u8?wsSecret=%2A%2A%2A&wsTime=2019657600
-四川文化,http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-成都金堂,http://live.jtxwzx.com.cn:80/jtdst/hd/live.m3u8
-福州新闻广播,http://live.zohi.tv/audio/s10001-FM944/index.m3u8
-河北公共,http://1.94.31.214/php/hebei.php?id=hbgg
-河北经济,http://1.94.31.214/php/hebei.php?id=jjsh
-临汾新闻综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=lf1
-吕梁新闻综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=ll1
-大同新闻综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=dt1
-太原佰乐购,http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tyblg
-太原城市,http://36.137.183.45:1100/difang/shanxi/taiyuan.php?id=tycssh
-太原新闻综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=ty1
-山西黄河,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sxhh
-忻州综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=xz1
-晋中综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=jz1
-晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8
-晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
-晋城新闻综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=jc1
-朔州新闻综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=sz1
-阳泉新闻综合,http://36.137.183.45:1100/difang/shanxi/shanxi.php?id=yq1
-黄山西海大峡谷,https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁文旅,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
-河南公共,http://1.94.31.214/php/hntv.php?id=hngg
-河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
-河南法治,http://1.94.31.214/php/hntv.php?id=hmfz
-河南都市,http://1.94.31.214/php/hntv.php?id=hnds
-吉林不知,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
-吉林市新闻,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=%2A%2A%2A
-吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-吉林市新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jilin1/sd/live.m3u8
-吉林教育,http://222.169.85.8:9901/tsfile/live/1000_1.m3u8
-吉林通化,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8
-哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-黑龙江农业·科教,https://111.43.174.247:4430/live/hljgg_hd.m3u8
-黑龙江新闻·法治,https://111.43.174.247:4430/live/hljxw_hd.m3u8
-西安七套,http://xatv-yt.xiancity.cn/live/7/index.m3u8
-西安丝路,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
-西安丝路,https://xatv-yt.xiancity.cn/live/5/index.m3u8
-西安五套,http://xatv-yt.xiancity.cn/live/5/index.m3u8
-西安四套,http://xatv-yt.xiancity.cn/live/4/index.m3u8
-西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/index.m3u8
-西安移动电视,https://xatv-yt.xiancity.cn/live/7/index.m3u8
-西安都市,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/index.m3u8
-西安都市,https://xatv-yt.xiancity.cn/live/2/index.m3u8
-陕西秦腔,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8
-陕西秦腔,http://113.98.11.46:3000/956909303
-陕西秦腔,http://117.29.143.59:10000/956909303
-陕西秦腔,http://123.159.31.239:1234/956909303
-陕西秦腔,http://222.134.19.49:8090/956909303
-陕西秦腔,http://jxj.zhgdyun.com:1234/956909303
-陕西秦腔,http://125.38.164.44:1234/956909303
-陕西秦腔,http://chen.ccwu.cc:1234/956909303
-陕西秦腔,http://www.ikerobot.com:1234/956909303
-陕西秦腔,http://119.233.255.62:1234/956909303
-陕西秦腔,http://120.48.113.49:6006/956909303
-陕西秦腔,http://222.213.105.65:7788/956909303
-陕西秦腔,http://122.227.204.50:1905/956909303
-陕西秦腔,http://124.221.146.169:7001/956909303
-陕西秦腔,http://121.29.157.193:7788/956909303
-陕西秦腔,http://14.118.89.10:7788/956909303
-陕西秦腔,http://45.78.61.93:1234/956909303
-陕西秦腔,https://live.chinacert.cftest5.cn/cnmg/live/956909303
-陕西秦腔,http://47.119.24.76:59093/956909303
-陕西都市青春,http://2280.eu.org:1234/956909358
-陕西都市青春,http://fn.gcl.de5.net:5908/gsh950428/956909358
-陕西银龄,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8
-陕西银龄,http://113.98.11.46:3000/956909362
-陕西银龄,http://117.29.143.59:10000/956909362
-陕西银龄,http://123.159.31.239:1234/956909362
-陕西银龄,http://222.134.19.49:8090/956909362
-陕西银龄,http://jxj.zhgdyun.com:1234/956909362
-陕西银龄,http://125.38.164.44:1234/956909362
-陕西银龄,http://chen.ccwu.cc:1234/956909362
-陕西银龄,http://www.ikerobot.com:1234/956909362
-陕西银龄,http://119.233.255.62:1234/956909362
-陕西银龄,http://120.48.113.49:6006/956909362
-陕西银龄,http://222.213.105.65:7788/956909362
-陕西银龄,http://122.227.204.50:1905/956909362
-陕西银龄,http://124.221.146.169:7001/956909362
-陕西银龄,http://121.29.157.193:7788/956909362
-陕西银龄,http://14.118.89.10:7788/956909362
-陕西银龄,http://45.78.61.93:1234/956909362
-陕西银龄,https://live.chinacert.cftest5.cn/cnmg/live/956909362
-陕西银龄,http://47.119.24.76:59093/956909362
-云南康旅,https://hwapi.yntv.net/62hdvf/227q43.m3u8
-海南广播电视总台文旅,http://113.98.11.46:3000/962067526
-海南广播电视总台文旅,http://117.29.143.59:10000/962067526
-海南广播电视总台文旅,http://123.159.31.239:1234/962067526
-海南广播电视总台文旅,http://222.134.19.49:8090/962067526
-海南广播电视总台文旅,http://jxj.zhgdyun.com:1234/962067526
-海南广播电视总台文旅,http://125.38.164.44:1234/962067526
-海南广播电视总台文旅,http://chen.ccwu.cc:1234/962067526
-海南广播电视总台文旅,http://www.ikerobot.com:1234/962067526
-海南广播电视总台文旅,http://119.233.255.62:1234/962067526
-海南广播电视总台文旅,http://120.48.113.49:6006/962067526
-海南广播电视总台文旅,http://222.213.105.65:7788/962067526
-海南广播电视总台文旅,http://122.227.204.50:1905/962067526
-海南广播电视总台文旅,http://124.221.146.169:7001/962067526
-海南广播电视总台文旅,http://121.29.157.193:7788/962067526
-海南广播电视总台文旅,http://14.118.89.10:7788/962067526
-海南广播电视总台文旅,http://45.78.61.93:1234/962067526
-海南广播电视总台文旅,https://live.chinacert.cftest5.cn/cnmg/live/962067526
-海南广播电视总台文旅,http://47.119.24.76:59093/962067526
-海南广播电视总台新闻,http://113.98.11.46:3000/962067517
-海南广播电视总台新闻,http://117.29.143.59:10000/962067517
-海南广播电视总台新闻,http://123.159.31.239:1234/962067517
-海南广播电视总台新闻,http://222.134.19.49:8090/962067517
-海南广播电视总台新闻,http://jxj.zhgdyun.com:1234/962067517
-海南广播电视总台新闻,http://125.38.164.44:1234/962067517
-海南广播电视总台新闻,http://chen.ccwu.cc:1234/962067517
-海南广播电视总台新闻,http://www.ikerobot.com:1234/962067517
-海南广播电视总台新闻,http://119.233.255.62:1234/962067517
-海南广播电视总台新闻,http://120.48.113.49:6006/962067517
-海南广播电视总台新闻,http://222.213.105.65:7788/962067517
-海南广播电视总台新闻,http://122.227.204.50:1905/962067517
-海南广播电视总台新闻,http://124.221.146.169:7001/962067517
-海南广播电视总台新闻,http://121.29.157.193:7788/962067517
-海南广播电视总台新闻,http://14.118.89.10:7788/962067517
-海南广播电视总台新闻,http://45.78.61.93:1234/962067517
-海南广播电视总台新闻,https://live.chinacert.cftest5.cn/cnmg/live/962067517
-海南广播电视总台新闻,http://47.119.24.76:59093/962067517
-海南广播电视总台社会与法,http://113.98.11.46:3000/962045223
-海南广播电视总台社会与法,http://117.29.143.59:10000/962045223
-海南广播电视总台社会与法,http://123.159.31.239:1234/962045223
-海南广播电视总台社会与法,http://222.134.19.49:8090/962045223
-海南广播电视总台社会与法,http://jxj.zhgdyun.com:1234/962045223
-海南广播电视总台社会与法,http://125.38.164.44:1234/962045223
-海南广播电视总台社会与法,http://chen.ccwu.cc:1234/962045223
-海南广播电视总台社会与法,http://www.ikerobot.com:1234/962045223
-海南广播电视总台社会与法,http://119.233.255.62:1234/962045223
-海南广播电视总台社会与法,http://120.48.113.49:6006/962045223
-海南广播电视总台社会与法,http://222.213.105.65:7788/962045223
-海南广播电视总台社会与法,http://122.227.204.50:1905/962045223
-海南广播电视总台社会与法,http://124.221.146.169:7001/962045223
-海南广播电视总台社会与法,http://121.29.157.193:7788/962045223
-海南广播电视总台社会与法,http://14.118.89.10:7788/962045223
-海南广播电视总台社会与法,http://45.78.61.93:1234/962045223
-海南广播电视总台社会与法,https://live.chinacert.cftest5.cn/cnmg/live/962045223
-海南广播电视总台社会与法,http://47.119.24.76:59093/962045223
-海南广播电视总台自贸,http://113.98.11.46:3000/962045226
-海南广播电视总台自贸,http://117.29.143.59:10000/962045226
-海南广播电视总台自贸,http://123.159.31.239:1234/962045226
-海南广播电视总台自贸,http://222.134.19.49:8090/962045226
-海南广播电视总台自贸,http://jxj.zhgdyun.com:1234/962045226
-海南广播电视总台自贸,http://125.38.164.44:1234/962045226
-海南广播电视总台自贸,http://chen.ccwu.cc:1234/962045226
-海南广播电视总台自贸,http://www.ikerobot.com:1234/962045226
-海南广播电视总台自贸,http://119.233.255.62:1234/962045226
-海南广播电视总台自贸,http://120.48.113.49:6006/962045226
-海南广播电视总台自贸,http://222.213.105.65:7788/962045226
-海南广播电视总台自贸,http://122.227.204.50:1905/962045226
-海南广播电视总台自贸,http://124.221.146.169:7001/962045226
-海南广播电视总台自贸,http://121.29.157.193:7788/962045226
-海南广播电视总台自贸,http://14.118.89.10:7788/962045226
-海南广播电视总台自贸,http://45.78.61.93:1234/962045226
-海南广播电视总台自贸,https://live.chinacert.cftest5.cn/cnmg/live/962045226
-海南广播电视总台自贸,http://47.119.24.76:59093/962045226
-海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-海口城乡,https://live2.hkbtv.cn/live/tv2503.m3u8
-海口新闻,https://live2.hkbtv.cn/live/tv2501.m3u8
-◆◆◆　https://live.izbds.com/tv/iptv4.txt
-◆◆◆　https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
-浙江卫视4K,http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K
-江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
-山东卫视4K,http://101.35.240.114:88/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CGTN纪录,http://t.061899.xyz/tl/tl.php?id=cgtnjl
-四海钓鱼,http://t.061899.xyz/tl/tl.php?id=shdy
-上视纪实人文,http://t.061899.xyz/tl/tl.php?id=shjsrw
-乐游,http://t.061899.xyz/tl/tl.php?id=ly
-七彩戏剧,http://t.061899.xyz/tl/tl.php?id=qcxj
-黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
-金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
-游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
-乐游,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
-睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
-睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-1905电影网（国内）,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
-中国电影,https://live.tvfix.org/live/cmc/index.m3u8
-乐游,http://8.138.7.223/tv/shtv.php?id=ly
-台湾+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-TVB Plus,http://r.jdshipin.com/Nr5jq
-视频4K,http://r.jdshipin.com/ln4xk
-视频4K-2,http://r.jdshipin.com/Lqdwf
-翡翠台 backup,http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
-iNews新闻,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
-HOY资讯,http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
-RHK 31,http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8
-RHK 32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
-VIUTV1,http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
-Viu6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-年代新闻,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
-纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-TVB生活,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-NewTV 超级综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
-NewTV 金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
-NewTV 魅力潇湘,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=YanG-1989
-NewTV 东北热剧,http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
-NewTV 古装剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
-NewTV 欢乐剧场,http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
-NewTV 怡伴健康,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=YanG-1989
-NewTV 潮妈辣婆,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=YanG-1989
-NewTV 军旅剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
-NewTV 军事评论,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
-NewTV 中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
-NewTV 农业致富,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=YanG-1989
-NewTV 家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
-NewTV 炫舞未来,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
-NewTV 精品萌宠,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989
-NewTV 精品大剧,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=YanG-1989
-NewTV 精品记录,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=YanG-1989
-NewTV 武搏世界,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
-NewTV 明星大片,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
-NewTV 海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-赛事睛彩竞技,http://vip.lqcc.xyz:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-赛事睛彩篮球,http://vip.lqcc.xyz:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-赛事睛彩竞技,http://vip.lqcc.xyz:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-赛事睛彩篮球,http://vip.lqcc.xyz:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-赛事4k-1,http://vip.lqcc.xyz:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-赛事4k-2,http://vip.lqcc.xyz:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-赛事播01,http://vip.lqcc.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-赛事播02,http://vip.lqcc.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-赛事播03,http://vip.lqcc.xyz:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-赛事播04,http://vip.lqcc.xyz:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-赛事播05,http://vip.lqcc.xyz:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-赛事播06,http://vip.lqcc.xyz:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-赛事播07,http://vip.lqcc.xyz:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-赛事播08,http://vip.lqcc.xyz:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-赛事播09,http://vip.lqcc.xyz:35455/itv/3000000001000026778.m3u8?cdn=FifastbLive
-赛事播10,http://vip.lqcc.xyz:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-赛事播11,http://vip.lqcc.xyz:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-赛事播12,http://vip.lqcc.xyz:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-赛事播13,http://vip.lqcc.xyz:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-赛事播14,http://vip.lqcc.xyz:35455/itv/3000000010000002032.m3u8?cdn=FifastbLive
-赛事播15,http://vip.lqcc.xyz:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-赛事播16,http://vip.lqcc.xyz:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-赛事播17,http://vip.lqcc.xyz:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-赛事播18,http://vip.lqcc.xyz:35455/itv/3000000010000004464.m3u8?cdn=FifastbLive
-赛事播19,http://vip.lqcc.xyz:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-赛事播20,http://vip.lqcc.xyz:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-赛事播21,http://vip.lqcc.xyz:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-赛事播22,http://vip.lqcc.xyz:35455/itv/3000000010000006944.m3u8?cdn=FifastbLive
-赛事播23,http://vip.lqcc.xyz:35455/itv/3000000010000007692.m3u8?cdn=FifastbLive
-赛事播24,http://vip.lqcc.xyz:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-赛事播25,http://vip.lqcc.xyz:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-赛事播26,http://vip.lqcc.xyz:35455/itv/3000000010000011112.m3u8?cdn=FifastbLive
-赛事播27,http://vip.lqcc.xyz:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-赛事播28,http://vip.lqcc.xyz:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-赛事播29,http://vip.lqcc.xyz:35455/itv/3000000010000011763.m3u8?cdn=FifastbLive
-赛事播30,http://vip.lqcc.xyz:35455/itv/3000000010000011873.m3u8?cdn=FifastbLive
-赛事播31,http://vip.lqcc.xyz:35455/itv/3000000010000012398.m3u8?cdn=FifastbLive
-赛事播32,http://vip.lqcc.xyz:35455/itv/3000000010000012450.m3u8?cdn=FifastbLive
-赛事播33,http://vip.lqcc.xyz:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-赛事播34,http://vip.lqcc.xyz:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-赛事播35,http://vip.lqcc.xyz:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-赛事播36,http://vip.lqcc.xyz:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-赛事播37,http://vip.lqcc.xyz:35455/itv/3000000010000017389.m3u8?cdn=FifastbLive
-赛事播38,http://vip.lqcc.xyz:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-赛事播39,http://vip.lqcc.xyz:35455/itv/3000000010000017997.m3u8?cdn=FifastbLive
-赛事播40,http://vip.lqcc.xyz:35455/itv/3000000010000019380.m3u8?cdn=FifastbLive
-赛事播41,http://vip.lqcc.xyz:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-赛事播42,http://vip.lqcc.xyz:35455/itv/3000000010000020168.m3u8?cdn=FifastbLive
-赛事播43,http://vip.lqcc.xyz:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-赛事播44,http://vip.lqcc.xyz:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-赛事播45,http://vip.lqcc.xyz:35455/itv/3000000010000024205.m3u8?cdn=FifastbLive
-赛事播46,http://vip.lqcc.xyz:35455/itv/3000000010000024691.m3u8?cdn=FifastbLive
-赛事播47,http://vip.lqcc.xyz:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-赛事播48,http://vip.lqcc.xyz:35455/itv/3000000010000025943.m3u8?cdn=FifastbLive
-赛事播49,http://vip.lqcc.xyz:35455/itv/3000000010000027318.m3u8?cdn=FifastbLive
-赛事播50,http://vip.lqcc.xyz:35455/itv/3000000010000027638.m3u8?cdn=FifastbLive
-赛事播51,http://vip.lqcc.xyz:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-赛事播52,http://vip.lqcc.xyz:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-赛事播53,http://vip.lqcc.xyz:35455/itv/3000000010000032106.m3u8?cdn=FifastbLive
-古装武侠,http://www.goodiptv.club/douyu/2793084
-邵氏影院,http://www.goodiptv.club/douyu/4246519
-冰冰影剧,http://www.goodiptv.club/douyu/74374
-刀刀影院,http://www.goodiptv.club/douyu/747764
-华语影视,http://www.goodiptv.club/douyu/3928
-斗鱼港剧,http://www.goodiptv.club/douyu/5061550
-橙记港剧,http://www.goodiptv.club/douyu/4549169
-经典剧集,http://www.goodiptv.club/douyu/6863367
-热门港剧,http://www.goodiptv.club/douyu/5522351
-贝爷求生,http://www.goodiptv.club/douyu/9661369
-新三国（斗鱼）,https://goodiptv.club/douyu/5908256
-神探狄仁杰第二部,https://goodiptv.club/douyu/12183882
-爱情公寓（斗鱼）,https://goodiptv.club/douyu/4105989
-西游记续集,http://www.goodiptv.club/douyu/3113309
-BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
-BRTV影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742954511&sign=5241ba5667bd08639fd195ea9db6da5a
-BRTV文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1742954441&sign=36eca1b00f7de9e79ecc4449bcaa35d5
-BRTV体育休闲,http://smjdenny.eu.org:35455/bptv/10000100000000050000000003870779.m3u8
-BRTV国际,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~IfgL7tTUNqHAIdgvKuwj8A~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
-淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~N0sbBMpQv4sLsW5foy3YfA~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~_PpxWPtvSZRFtu_Ged-vQ~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
-优优宝贝,http://120.76.248.139/live/bfgd/4200000153.m3u8
-生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
-车迷,http://120.76.248.139/live/bfgd/4200000146.m3u8
-乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
-利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd=
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd=
-德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd=
-德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd=
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd=
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-辽宁公共,http://120.76.248.139/live/bfgd/4200000077.m3u8
-辽宁公共,http://120.76.248.139/live/bfgd/4200000481.m3u8
-广东公共,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
-广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=%2A%2A%2A&txTime=18d578f4493
-广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
-武术世界,http://www.lizhinas.top:1009/rtp/239.252.220.180:5140
-河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
-河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
-河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
-河南法治,http://www.cdnstv.com:6398/hls/1112/index.m3u8
-河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
-收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
-中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u
-河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
-河南国际,http://1.94.31.214/php/hntv.php?id=hngj
-河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
-武术世界,http://1.94.31.214/php/hntv.php?id=wspd
-移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
-象视界,http://1.94.31.214/php/hntv.php?id=xsj
-河北都市,http://1.94.31.214/php/hebei.php?id=hbds
-河北农民,http://1.94.31.214/php/hebei.php?id=nmpd
-河北睛彩,http://vip.lqcc.xyz:15511/rtp/239.254.200.27:6000
-河北杂技,http://vip.lqcc.xyz:15511/rtp/239.254.201.139:7203
-石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
-石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-西部电影,http://112.46.105.20:8009/hls/62/index.m3u8
-都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
-乐家购物,http://112.46.105.20:8009/hls/23/index.m3u8
-武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd=
-十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-福建乡村振兴公共,http://8.138.7.223/tv/fjtv1.php?id=fjxc
-福建旅游,http://8.138.7.223/tv/fjtv1.php?id=fjly
-福州新闻综合,http://8.138.7.223/tv/fjtv1.php?id=fz1
-泉州新闻综合,http://8.138.7.223/tv/fjtv1.php?id=qz1
-三明综合,http://8.138.7.223/tv/fjtv1.php?id=sm1
-莆田综合,http://8.138.7.223/tv/fjtv1.php?id=pt1
-南平综合,http://8.138.7.223/tv/fjtv1.php?id=np1
-龙岩综合,http://8.138.7.223/tv/fjtv1.php?id=ly1
-宁德新闻综合,http://8.138.7.223/tv/fjtv1.php?id=nd1
-平潭综合,http://8.138.7.223/tv/fjtv1.php?id=pttv
-海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
-黑龙江公共农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225994/index.m3u8
-呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=%2A%2A%2A&txTime=771E8800
-黄河电视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-甘肃公共应急,https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-1984年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-1985年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-1986年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-1997年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-1999年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-2011年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-2012年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-2015年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-2016年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-2017年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-2020年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-2021年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-2022年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-2025年春晚 4K,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
-BBC,http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-Fox LiveNow,https://jmp2.uk/sam-USBA300024TN.m3u8
-NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-TBS,http://143.244.60.30/TBS/index.m3u8
-ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-&Flix,http://89.187.177.137:8081/&FLIX/index.m3u8
-Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-◆◆◆　https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-◆◆◆　https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~EuBMjt2kLMD8fAO7QYER7Q~tP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-◆◆◆　https://tzdr.com/iptv.txt
-◆◆◆　https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
-CETV-1 综合教育,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~B8MrpAzJ_Bw12HHVBcZO6g~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
-家庭剧场,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-古装剧场,http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-军旅剧场,http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-超级电视剧,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-爱情喜剧,http://39.134.65.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-惊悚悬疑,http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-东北热剧,http://39.134.65.74/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-欢乐剧场,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-潮妈辣妹,http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-武博世界,http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-中国天气,http://home.wwang.pw:35455/itv/5000000005000031974.m3u8?cdn=bestzb
-茶友,http://home.wwang.pw:35455/itv/5000000011000031209.m3u8?cdn=bestzb
-乐游,http://home.wwang.pw:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-金色学堂,http://home.wwang.pw:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-睛彩青少,http://home.wwang.pw:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
-睛彩广场舞,http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
-凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260904151200 +0800">
+<tv date="20260904152111 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -20754,9 +20754,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260903144600 +0800" stop="20260903151600 +0800">
-		<title lang="zh">向着炮火前进（42集）</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260903151600 +0800" stop="20260903154500 +0800">
 		<title lang="zh">专题</title>
 	</programme>
